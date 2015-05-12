@@ -1,0 +1,150 @@
+
+#akce {
+	width: 650px; 
+	background: #F9BE3C; 
+	border-radius: 10px; 
+	margin: 10px 10px 10px 10px;
+	padding: 20px;
+	text-align: left;
+}
+
+#oblast_parametru {
+	margin: 0px 0px 20px 0px;
+}
+
+#nazev { 
+	margin: 0 0 10px 15px;
+}
+
+#nazev-text {
+	font-size: 28px; 
+	font-weight: bold;
+}
+
+#zmen_nazev {
+	
+}
+
+#podrobne_info {
+	width: 610px;
+	clear: both; 
+	margin: 0 0px 15px 15px;
+	padding: 0px;
+}
+
+#podrobne_info-textarea {
+	width: 610px;
+	height: 300px
+}
+
+#podrobne_info-text {
+	clear: left;
+}
+
+#podrobne_info-text p {
+	margin: 0 0 10px 0;
+	text-align: justify;
+}
+
+#maz_menu{
+	float: right;
+}
+
+#maz_menu ul{
+	list-style-type: none;
+}
+
+.zmena-odkaz {
+	font-size: 13px;
+	font-weight: bold;
+	display: inline;
+	color: #00315F /*#26316C referenční barva, taková je barvy pozadí stránek */
+}
+
+.zmena-odkaz a:hover {
+	text-decoration: underline;
+}
+
+.formular {
+	display: none; 
+	clear: left;
+	margin: 0px 0px 10px 0px;
+}
+
+.formular p{
+	margin: 0px 0px 0px 0px;
+}
+
+.parametr {
+	margin: 0px 0px 0px 15px;
+	clear: left;
+}
+
+.parametr-nazev {
+	font-size: 18px; 
+	font-weight: bold; 
+	float: left;
+	height: 30px;
+	margin: 0 5px 0 0;
+}
+
+.parametr-hodnota{
+	font-size: 16px; 
+	padding: 2px 0px 0 0;
+}
+
+
+/* kategorie */
+#upresnujici_kategorie {
+	font-size: 12px;
+	font-style: italic;
+}
+
+#upresnujici_kategorie-nadpis-bunka {
+}
+
+#upresnujici_kategorie-okno {
+	width: 600px; 
+}
+
+#kategorie-tabulka{
+	width: 600px;
+}
+
+#kategorie-tabulka td {
+	border: 0px;
+}
+
+.checkbox {
+	text-align: center;
+}
+
+.nazev_kategorie {
+	text-align: center;
+}
+
+.prvni_sloupec {
+	width: 100px;
+}
+
+/* Vedoucí */
+#vedouci-tabulka{
+	width: 600px;
+}
+
+#vedouci-tabulka td {
+	border: 0px;
+}
+
+#vedouci2 {
+	margin: 0 10px 0 0;
+}
+
+#vedouci3 {
+	margin: 0px;
+}
+
+.seznam {
+	margin: 0px;
+}
+
