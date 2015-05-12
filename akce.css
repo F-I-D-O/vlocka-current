@@ -1,0 +1,133 @@
+
+#akce {
+	width: 650px; 
+	background: #F9BE3C; 
+	border-radius: 10px; 
+	margin: 10px 10px 10px 10px;
+	padding: 20px;
+	text-align: left;
+}
+
+#oblast_parametru {
+	background: #F9BE3C; 
+	border-radius: 10px; 
+	margin: 10px 0px 20px 0px;
+	padding: 0px
+}
+
+#nazev {
+	font-size: 28px; 
+	font-weight: bold; 
+	margin: 0px 0px 10px 15px;
+	display: inline-block;
+}
+
+#zmen_nazev {
+	
+}
+
+#podrobne_info {
+	width: 610px;
+	clear: both; 
+	background: #F9BE3C; 
+	border-radius: 10px; 
+	margin: 0 0px 0px 0px;
+	padding: 0px;
+}
+
+#podrobne_info-textarea {
+	width: 610px;
+	height: 300px
+}
+
+#podrobne_info-text {
+	margin: 0 0 0 15px;
+}
+
+#podrobne_info-text p {
+	margin: 0 0 10px 0;
+}
+
+#maz_menu{
+	float: right;
+}
+
+#maz_menu ul{
+	list-style-type: none;
+}
+
+.zmena_odkaz {
+	font-size: 13px;
+	font-weight: bold;
+	display: inline;
+}
+
+.zmena_odkaz a:hover {
+	text-decoration: underline;
+}
+
+.formular {
+	margin: 0px 0px 0px 20px;
+	display: none; 
+}
+
+.formular p{
+	margin: 0px 0px 0px 0px;
+}
+
+.parametry {
+	font-size: 18px; 
+	font-weight: bold; 
+	margin: 0px 0px 10px 15px;
+	display: inline-block;
+}
+
+/* kategorie */
+#upresnujici_kategorie-nadpis-bunka {
+}
+
+#upresnujici_kategorie-okno {
+	width: 600px; 
+}
+
+#kategorie-tabulka{
+	width: 600px;
+}
+
+#kategorie-tabulka td {
+	border: 0px;
+}
+
+.checkbox {
+	text-align: center;
+}
+
+.nazev_kategorie {
+	text-align: center;
+}
+
+.prvni_sloupec {
+	width: 100px;
+}
+
+/* Vedoucí */
+#vedouci-tabulka{
+	width: 600px;
+}
+
+#vedouci-tabulka td {
+	border: 0px;
+}
+
+#vedouci2 {
+	margin: 0 10px 0 0;
+}
+
+#vedouci3 {
+	margin: 0px;
+}
+
+.seznam {
+	margin: 0px;
+}
+

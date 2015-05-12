@@ -1,0 +1,83 @@
+
+#akce {
+	width: 650px; 
+	background: #F9BE3C; 
+	border-radius: 10px; 
+	margin: 10px 10px 10px 10px;
+	padding: 20px;
+	text-align: left;
+}
+
+#parametry {
+	width: 500px; 
+	float: left;
+	background: #F9BE3C; 
+	border-radius: 10px; 
+	margin: 10px 0px 20px 0px;
+	padding: 0px
+}
+
+#nazev {
+	font-size: 28px; 
+	font-weight: bold; 
+	margin: 0px 0px 10px 15px;
+	display: inline-block;
+}
+
+#zmen_nazev {
+	
+}
+
+.zmena_odkaz {
+	font-size: 13px;
+	font-weight: bold;
+	display: inline;
+}
+
+.zmena_odkaz a:hover {
+	text-decoration: underline;
+}
+
+.formular {
+	margin: 0px 0px 0px 20px;
+	display: none; 
+}
+
+.formular p{
+	margin: 0px 0px 0px 0px;
+}
+
+.parametry {
+	font-size: 18px; 
+	font-weight: bold; 
+	margin: 0px 0px 10px 15px;
+	display: inline-block;
+}
+
+/* kategorie */
+#upresnujici_kategorie-nadpis-bunka {
+}
+
+#upresnujici_kategorie-okno {
+	width: 600px; 
+}
+
+#kategorie-tabulka{
+	width: 600px;
+}
+
+#kategorie-tabulka td {
+	border: 0px;
+}
+
+.checkbox {
+	text-align: center;
+}
+
+.nazev_kategorie {
+	text-align: center;
+}
+
+.prvni_sloupec {
+	width: 100px;
+}

@@ -1,0 +1,593 @@
+/*
+==========================
+----------ZNAČKY----------
+==========================
+*/
+
+body {
+	font-family: arial;
+	font-size: 14px;
+	text-align: justify;
+	background: #F9BE3C;
+	margin: 0px; /* musí zde být, body má margin defaultní, ač to vypadá jako hovadina!! */
+}
+
+img {
+ 	border: 0px; /* musí zde být, defaultně se okraj vykresluje všude!! */
+ 	margin: 0px;
+}
+
+p { 
+	margin: 0 0 10px 0;
+}
+	
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #00395C; /*#26316C referenční barva, taková je barvy pozadí stránek */ 
+}
+
+a:hover {
+	text-decoration: underline;
+}
+	
+table {
+	border-collapse: collapse;	
+}
+
+h1 {
+	padding: 10px 0px 10px 10px;
+	margin: 0px;
+	font-size: 30px;
+}
+
+h2 {
+	padding: 10px 0px 0px 10px;
+	text-align: left;
+	margin: 0px;
+	font-size: 25px;
+}
+
+h3 {
+	padding: 10px 0px 0px 10px;
+	margin: 0px;
+	font-size: 20px;
+}
+
+h4 {
+	padding: 10px 0px 0px 10px;
+	margin: 0px;
+	font-size: 15px;
+}
+
+/*
+=========================
+----------TŘÍDY----------
+=========================
+*/
+
+#hlavni {
+	margin: auto;
+	padding-bottom: 3px;
+	position: relative;
+	width: 1000px;
+	background-color: #26316C;
+	border-radius: 20px;
+}
+
+#zahlavi {
+	float: left;
+	height: 265px; 
+	width: 266px;
+	border-top-left-radius: 20px;
+	
+}
+
+#zahlavi img{
+	width: 245px;
+	margin: 10px
+}
+
+#menu {
+	float: left;
+	width: 480px;
+	height: 30px;
+	padding: 0px 0 0px 0px;
+	margin: 4px 0 4px 0;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 5px;
+	border: 1px solid white;
+}
+
+#menu div {
+	float: left;
+	height: 30px;
+}
+
+#menu a {
+	display: inline-block;
+	color: #F9BE3C;
+	background-color: #000037;
+	padding: 8px 0px 0 0px;
+	height: 22px;
+}
+
+#menu a:hover {
+  	color: #000037;
+  	background-color: #F9BE3C;
+  	text-decoration: none;
+}
+
+#vlevo {	
+}
+
+#vpravo{
+	width: 242px;
+	float: right;
+	margin: 15px 5px 10px 0;
+	background: #FF8800;
+	border-radius: 10px;
+	padding-bottom: 20px;
+	}
+
+#vpravo img{
+	width: 242px;
+	display: block;
+}	
+
+.odkazy {
+	width: 255px;
+	background-color: #FF8800;
+	border-radius: 10px;
+	padding: 0 0 10px 0;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px 10px 5px 5px;
+}
+
+.odkazy ul {
+	margin: 0 0 0 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.odkazy li {
+  margin: 0px 0 0.2em 10px;
+}
+
+.odkazy a {
+	display: block;
+	width: 225px;
+	padding: 0.7em 0.8em 0.7em 0.0em;
+	text-align: right;
+	color: #F9BE3C;
+	background: #000037;
+	margin: 0;
+	border-radius: 20px;
+}
+
+.odkazy a:hover {
+	background: #F9BE3C;
+	color: #000037;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.upravy-novinka{
+	margin: 0px;
+}
+
+.upravy-novinka a{
+	margin: 10px 10px 0px 10px;
+	color: black;
+}
+
+.upravy-novinka a:hover{
+	color: black;
+	text-decoration: underline
+}
+  
+.datum{
+	position: relative;
+	top: 0px; left: 330px;
+	margin: 0px;
+}	
+    
+.obsah{
+	float: right;
+	width: 710px;
+	padding: 10px 10px 20px 10px;
+	margin: 15px 5px 10px 0;
+	background: #FF8800;
+	border-radius: 10px;
+	font-size: 14px;
+}
+ 
+.obsah a{
+}
+
+.obsah p{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.obsah a:hover    { 
+	text-decoration: underline;
+}
+	
+.obsah img {
+	border: 10px solid white;
+	margin: 20px 10px 20px 10px;
+	}
+
+.obsah td img {
+	border-width: 0px;
+	margin: 0px;
+	}
+
+.obsah li { 
+	margin: 5px;
+	margin-right: 20px;
+	}	
+
+.obsah td {
+	border-width: 1px;
+	border-color: #000000;
+	border-style: solid
+}
+
+.error, .succes {
+	min-height: 40px;
+	clear: both; 
+	background: white;
+	background-repeat: no-repeat;
+	background-position: 5px 5px; 
+	border-radius: 4px;
+	margin: 10px; 
+	padding: 0px  
+}
+
+.error{
+	background-image: url("obrazky/ikony/error.png");	
+	border: 2px solid red; 
+}
+
+.succes{
+	background-image: url("obrazky/ikony/ok.png");
+	border: 2px solid green; 
+}
+
+.error p, .succes p{
+	position: relative;
+	top: 12px;
+	left: 45px;
+}
+
+.info { 
+	border-top: 3px dashed black;
+	border-bottom: 3px dashed black;
+	padding: 8px 0px 8px 0px;
+	margin: 20px 0px 20px 0px;
+  }
+
+.comic{
+	font-family: comic-sans;
+}
+
+.velke{
+	font-size: 20px;
+}
+
+.bez_mezer{
+	margin: 0px;
+}
+
+.seznam{
+	float: left;
+ }
+ 
+.velky_seznam{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.specialni_informace_index{
+	width: 202px;
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.specialni_informace_index p{
+	margin: 10px 0 0px 0;
+}
+
+.specialni_informace_index-nadpis{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+/*
++++++++++++++++++++++++++++
+----------NOVINKY----------
++++++++++++++++++++++++++++
+*/
+
+#archiv_novinek{
+	font: bold 15px Arial; 
+	text-align: center
+}	
+
+.novinky {
+	float: left;
+	width: 483px;
+	margin: 15px 0 10px 0px;
+	background: #F9BE3C;
+	border-radius: 10px;
+}
+
+.novinka a {
+	color: #00299C; /*#26316C referenční barva, taková je barvy pozadí stránek */
+}
+
+.novinky a:hover { 
+}
+	
+.novinky img {
+	width: 200px;
+}
+
+.novinka{
+	background: white;
+	padding: 10px 15px 15px 15px;
+	margin: 0px 5px 20px 5px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+.nadpis-novinka{
+	font-weight: bold;
+	font-size: 25px;
+	position: relative;
+	top:-0px;
+	text-align: left;
+}
+
+/*
++++++++++++++++++++++++++++
+----------PROFILY----------
++++++++++++++++++++++++++++
+*/
+
+.profily_cele a:hover{
+	width: 650px; 
+	height: 180px;
+	background: white;
+	color: black;
+	border: 10px solid black;
+	margin: 0 0 0 20px;
+	font-size: 35px;
+}
+
+.profily{
+	width: 600px;
+	height: 150px;
+	margin: 0 0 0px 55px;
+	color: black;
+	font-size: 30px;
+}
+
+.profily-prezdivka{
+	float: left;
+	padding:20px;
+}
+
+.profily-fotka{
+	float: right
+}
+
+.profil_zmena_odkaz{
+	font-size: 13px
+}
+
+.upravy-profil{
+	text-align: center;
+}
+
+.upravy-profil a{
+	margin: 10px 10px 0px 10px;
+	color: black;
+	font-size: 20px;
+}
+
+.upravy-profil a:hover{
+	color: black;
+	text-decoration: underline
+}
+
+/*
++++++++++++++++++++++++++++++
+----------PLAN AKCI----------
++++++++++++++++++++++++++++++
+*/
+
+.plan-akce{
+	width: 690px;
+	height: 50px;
+	border-radius: 20px;
+	border-top: 3px solid #83C9D4;
+	border-left: 6px solid #83C9D4;
+	border-right: 6px solid #83C9D4;
+	border-bottom: 3px solid #83C9D4;
+	padding: 0px;
+}
+
+.plan-datum{
+	width: 120px;
+	border-radius: 20px;
+	margin: 0 0 0 0px;
+	padding: 0px;
+	float: left;
+}
+
+.plan-nazev{
+	width: 370px;
+	margin: 0 5px 0 0px;
+	padding: 0px;
+	float: left;
+	text-align: left;
+}
+
+.plan-kategorie{
+	width: 100px;
+	margin: 0 0 0 0px;
+	padding: 0px;
+	float: left;
+	text-align: left;
+}
+
+.plan-podrobnosti, .plan-podrobnosti-aktivni{
+	width: 70px;
+	margin: 0 0 0 0px;
+	padding: 0px;
+	float: right;
+	font-size: 18px;
+}
+
+.plan-datum p, .plan-nazev p, .plan-kategorie p{
+	position: relative;
+	top: 11px;
+	left: 10px;
+	margin: 0px;
+}
+
+.plan-podrobnosti p, .plan-podrobnosti-aktivni p{
+	position: relative;
+	left: -10px;
+	top: 14px;
+}
+
+.plan-podrobnosti a, .plan-podrobnosti-aktivni a{
+	padding: 15px 17px 15px 10px;
+	margin: -10px;
+	border-top-right-radius: 16px;
+	border-bottom-right-radius: 16px;
+}
+
+.plan-podrobnosti a{
+	background: #718B79;
+	color: black;
+}
+
+.plan-podrobnosti a:hover{
+	background: #F9EA3E;
+	color: #26316C;
+	text-decoration: none;
+}
+
+.plan-podrobnosti-aktivni a{
+	background: #26316C;
+	color: #F9EA3E;
+}
+
+.plan-podrobnosti-aktivni a:hover{
+	background: #F9EA3E;
+	color: #26316C;
+	text-decoration: none;
+}
+
+/*
++++++++++++++++++++++++++++++++
+----------FOTOKRONIKA----------
++++++++++++++++++++++++++++++++
+*/
+
+.fotokronika{
+	width: 660px;
+	height: 40px;
+	margin: 0 10px;
+	padding: 12px;
+}
+
+.fotokronika-datum{
+	float: left;
+	width: 120px;
+}
+
+.fotokronika-aktivita{
+	float: left;
+	width: 80px;
+/* 	height: 10px; */
+}
+
+.fotokronika-nazev{
+	float: left;
+	width: 360px;
+}
+
+.fotokronika-autori{
+	float: left;
+}
+
+.fotokronika-aktivita img{
+	border: 0px;
+	margin: 0px;
+/* 	position: relative; */
+/* 	top: -8px; */
+/* 	height: 30px; */
+}
+
+/*
++++++++++++++++++++++++++++++
+-----------DULEZITE----------
++++++++++++++++++++++++++++++
+*/
+#dulezite img{
+	width: 20px;
+	display: inline; 
+	float: right;
+}
+
+#dulezite p{
+	display: block;
+	width: 175px; 
+}
+
+/*
++++++++++++++++++++++++
+-----------TB----------
++++++++++++++++++++++++
+*/
+
+.TB  { 
+	padding: 20px;
+	margin-left: 20px;		
+	 }
+
+.TB2 td { 
+	padding: 20px;
+	border: 0px;			
+	}
+	 	
+.TB2 table { 
+	width: 170px;
+	font-family: serif;
+	font-weight: bold;
+	Background-color: #ff9933;
+	border: 1px solid #339900;
+	}
+		
+.TB2 { 
+	width: 200px;
+	float: left;
+	}
+	
+.TB3 td { 
+	padding: 10px 30px 10px 30px;
+	border: 2px solid black;			
+	}
+
+
