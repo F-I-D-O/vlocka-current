@@ -25,8 +25,13 @@
 		?>
 		
 		<div class="obsah">		
-    				<img src="obrazky/plakaty/pohadkovyles2014.jpg" alt="foto" width="670" style="border: 0px; margin: 0px 0 0 20px">	 				 
-    	</div>
+    				<!--<img src="obrazky/plakaty/pohadkovyles2014.jpg" alt="foto" width="670" style="border: 0px; margin: 0px 0 0 20px">-->
+                                <h1>Dětský den na Senečáku</h1>
+                                <p>...tentokrát na téma Lov 13 bobříků!</p>
+                                <p>Start bude u vlakové zastávky Bolevec (pod konečnou tramvaje č. 1) 
+                                v době od 11 do 15 h, trase povede směrem k Seneckému rybníku. Startovné - zdarma!</p>
+                                <p>Skauti, skautky, RaR - sraz je v 9 h na klubovně, sebou oddílové tričko šátek (popř. kroj).</p>
+                </div>
 		<?php require 'php-vzhled/spodek.php'?>			
 	</div>
 </body>
