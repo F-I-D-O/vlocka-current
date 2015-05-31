@@ -48,13 +48,13 @@
 				</p>-->				
 	 			<p><a  target="_blank" href="dokumenty/první-info.pdf">Informace o táboře 2015</a></p>
 	 			<p>
-					Přihláška na tábor 2014 
-					<a target="_blank" href="dokumenty/Přihláška-dítěte-do-skautského-tábora.doc">DOC</a>
-					<a target="_blank" href="dokumenty/Přihláška-dítěte-do-skautského-tábora.pdf">PDF</a>
+					Přihláška na tábor 2015 
+					<a target="_blank" href="dokumenty/prihlaska_tabor_2015.doc">DOC</a>
+					<a target="_blank" href="dokumenty/prihlaska_tabor_2015.pdf">PDF</a>
 				</p>
-	 			<p><a target="_blank" href="dokumenty/T%C3%A1bor%202014%20-%20informace.pdf">
+<!--	 			<p><a target="_blank" href="dokumenty/T%C3%A1bor%202014%20-%20informace.pdf">
 			 		Informace o táboře 2014
-			 	</a></p>
+			 	</a></p>-->
 				<p>Přihláška do oddílu &nbsp;<a href="dokumenty/Prihlaska_do_oddilu.doc">DOC</a> &nbsp;
 					<a target="_blank" href="dokumenty/Prihlaska_do_oddilu.pdf">PDF</a></p>
 			 	
