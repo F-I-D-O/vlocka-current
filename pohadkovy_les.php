@@ -3,7 +3,7 @@
 <html lang="cs-cz" dir="ltr">
 <head>
 	<?php require 'php-vzhled/meta.php' ?>
-	<title>8. oddíl Vločka - Pohádkový les</title>
+	<title>28. oddíl Vločka - Pohádkový les</title>
 	<meta name="description" content="Jsme oddíl světlušek, vlčat, skautů, skautek a R&amp;R, 
 		dohromady je nás okolo 100 VLOČEK - jsme taková malá lavina a klubovnu máme u 
 		Seneckého rybníka (Plzeň - Bolevec). Oslavili jsme dvanácté narozeniny...">
