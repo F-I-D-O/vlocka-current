@@ -31,6 +31,7 @@
                                 <p>Start bude u vlakové zastávky Bolevec (pod konečnou tramvaje č. 1) 
                                 v době od 11 do 15 h, trase povede směrem k Seneckému rybníku. Startovné - zdarma!</p>
                                 <p>Skauti, skautky, RaR - sraz je v 9 h na klubovně, sebou oddílové tričko šátek (popř. kroj).</p>
+                                <img src="obrazky/plakaty/Mámy mají volno 2015-web.png" alt="Dětský den" width="620">
                 </div>
 		<?php require 'php-vzhled/spodek.php'?>			
 	</div>
