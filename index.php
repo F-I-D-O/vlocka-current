@@ -130,8 +130,8 @@
 				<img src="obrazky/ikony/ikona-hroch_2014.jpg" alt="Odpoledne jako hroch 2014">
 			</a>-->
                         
-                        <a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/pohadkovy_les.php") ?>">
-                            <img src="obrazky/ikony/ikona-detsky-den.png" alt="Dětský den">
+            <a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/pohadkovy_les.php") ?>">
+                <img src="obrazky/ikony/ikona-detsky-den.png" alt="Dětský den">
 			</a>
                         
 			<a href="<?php echo("http://plzentabor.skauting.cz/") ?>" target="_blank">
