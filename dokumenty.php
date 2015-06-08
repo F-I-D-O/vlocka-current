@@ -45,7 +45,9 @@
 					<a target="_blank" href="dokumenty/informace_pro_rodice_2014.pdf">
 						Informace pro rodiče 2014
 					</a>
-				</p>-->				
+				</p>-->
+                <p><a  target="_blank" href="dokumenty/Seznam-věcí.pdf">Seznam věcí na tábor 2015</a></p>
+                <p><a  target="_blank" href="dokumenty/Druhé-info-tábor-2015.pdf">Další informace o táboře 2015</a></p>
 	 			<p><a  target="_blank" href="dokumenty/první-info.pdf">Informace o táboře 2015</a></p>
 	 			<p>
 					Přihláška na tábor 2015 
