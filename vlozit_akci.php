@@ -27,7 +27,6 @@
 		
 		require 'php-vzhled/vlevo_zacatek.php';
 		require 'php-konstanty/mesice.php';
-
 		require 'php-vzhled/vlevo_konec.php';
 		?>
 		<div class="obsah">				
