@@ -2,6 +2,8 @@
 
 <html>
 <head>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+    
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="Content-Style-Type" content="text/css">
 	<meta http-equiv="Content-Language" content="cs">
@@ -22,6 +24,7 @@
 	<div id="hlavni">
 		<?php
 		require 'php/databaze.php';
+                require 'php/funkce.php';
 		require 'php-vzhled/zahlavi-default.php';
 		require 'php-vzhled/horejsek.php';
 		require 'php-vzhled/vlevo_zacatek.php';?>
@@ -68,7 +71,40 @@
 			 	</p>
 			 	<p><a target="_blank" href="dokumenty/Vyrocni_zprava_2010.pdf">
 			 		Výroční zpráva za druhou půlku roku 2010
-			 	</a></p>						 				
+			 	</a></p>
+                                
+                                <?php
+                                
+                                    if(opravneni(2)){
+                                        ?>
+                                        <input type="submit" value="Přidat dokument" id="pridat_dokument">
+                                        <div id="pridat">
+                                            <form method="post" action="PHP/pridat_dokument.php" enctype="multipart/form-data">
+                                                <label>Titulek: </label>
+                                                <input type="text" id="titulek" name="titulek"><br>
+                                                <input type="file" id="soubor_k_nahrati" name="soubor">
+                                                <input type="submit" value="Nahrát" id="nahrat">
+                                            </form>
+                                        </div>    
+                                       <?php 
+                                    }
+                                    
+                                ?>
+                                    
+                                
+                                    <script>
+                                        $("#pridat").hide();
+                                        var zobrazit = function(){
+                                            $("#pridat").show();
+                                        }
+                                        var kliknuti = function(){
+                                            $("#pridat_dokument").click(zobrazit);
+                                        }
+                                        $(document).ready(kliknuti);
+                                    </script>
+                                
+                                
+                                
 		</div>
 		<?php require 'php-vzhled/spodek.php'?>			
 	</div>
