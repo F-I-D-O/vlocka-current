@@ -37,7 +37,7 @@
 			 	<br />
 			 	<p style="font: bold 30px Arial; text-align: center">
 			 		<a href="http://vlocka-les.kambo.us/index.php/enroll/index" target="_blank">
-			 			Přihlašování na Strašidelný les skončilo
+			 			Přihlašování na Strašidelný les
 			 		</a>
 			 	</p>
 				<!--<p style="font: 15px Arial; text-align: center">(Přihlašování ještě nezačalo)</p>-->
