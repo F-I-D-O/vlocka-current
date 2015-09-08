@@ -4,10 +4,6 @@
 			<li>
 				<a href="<?php echo('http://' . $_SERVER["SERVER_NAME"] . '/plan.php') ?>">PLÁN AKCÍ</a>
 			</li>
-			<li>
-				<a href="<?php echo('http://' . $_SERVER["SERVER_NAME"] . '/bodovani_maly.php') ?>">
-					BODOVÁNÍ VLČAT A SVĚTLUŠEK</a>
-			</li>
             <li>
 				<a href="<?php echo('http://' . $_SERVER["SERVER_NAME"] . '/TB_maly.php') ?>">
 				TB VLČATA A SVĚTLUŠKY</a>
