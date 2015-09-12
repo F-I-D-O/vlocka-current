@@ -72,39 +72,6 @@
 			 	<p><a target="_blank" href="dokumenty/Vyrocni_zprava_2010.pdf">
 			 		Výroční zpráva za druhou půlku roku 2010
 			 	</a></p>
-                                
-                                <?php
-                                
-                                    if(opravneni(2)){
-                                        ?>
-                                        <input type="submit" value="Přidat dokument" id="pridat_dokument">
-                                        <div id="pridat">
-                                            <form method="post" action="PHP/pridat_dokument.php" enctype="multipart/form-data">
-                                                <label>Titulek: </label>
-                                                <input type="text" id="titulek" name="titulek"><br>
-                                                <input type="file" id="soubor_k_nahrati" name="soubor">
-                                                <input type="submit" value="Nahrát" id="nahrat">
-                                            </form>
-                                        </div>    
-                                       <?php 
-                                    }
-                                    
-                                ?>
-                                    
-                                
-                                    <script>
-                                        $("#pridat").hide();
-                                        var zobrazit = function(){
-                                            $("#pridat").show();
-                                        }
-                                        var kliknuti = function(){
-                                            $("#pridat_dokument").click(zobrazit);
-                                        }
-                                        $(document).ready(kliknuti);
-                                    </script>
-                                
-                                
-                                
 		</div>
 		<?php require 'php-vzhled/spodek.php'?>			
 	</div>
