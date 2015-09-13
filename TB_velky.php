@@ -46,9 +46,9 @@
 				 	Podrobný rozpis táborových bodů</a>
 				</p>
 				<p>Informace v tabulce za tímto odkazem jsou aktualizovány průběžně, jsou tedy čerstvější než ty níže uvedené!
-					(datum poslední aktualizace této stránky je uveden vpravo nahoře). Pokud najdete chyby, ozvěte se Fidovi)</p>
+					(datum poslední aktualizace této stránky je uveden vpravo nahoře). Pokud najdete chyby, ozvěte se Gandalfovi)</p>
 				<br />
-				<h2>Získané táborové body (do konce roku 2016)</h2>
+				<h2>Získané táborové body (Za Hrocha a Strašidelný les)</h2>
 					<h3>Vysvětlivky:</h3>
 				 	<div class="TB">
 					 	<div class="TB3">
@@ -103,7 +103,7 @@
                                                                 <tr><td>Hruška</td><td>2</td></tr>
 				 				<tr><td>Vendy</td><td>2</td></tr>												
 				 				<tr><td>Žirafa</td><td>2</td></tr>
-				 				<tr><td>Kapka</td><td></td></tr>
+				 				<tr><td>Kapka</td><td>0</td></tr>
 							</table>
 					</div>
 				</div>
