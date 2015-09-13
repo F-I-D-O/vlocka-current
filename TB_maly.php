@@ -31,22 +31,24 @@
 		
 		<div class="obsah">
 			<h1>Táborové body vlčat a světlušek</h1>
-				<p style="position: relative; top: -45px; left: 480px;">Aktualizováno 8. září 2015</p>
+				<p style="position: relative; top: -45px; left: 480px;">Aktualizováno 13. září 2015</p>
 				<p>I pro letošní rok jsme se rozhodli, jako podmínku účasti na letním táboře využít táborové body. 
                     Táborové body děti získávají za účast na oddílovkách a výpravách. Dohromady jich za celý školní rok
-                    mohou získat více než 30. Pro účast na táboře je třeba získat min. 20 bodů, což by nemělo být 
+                    mohou získat více než 30. Pro účast na táboře je třeba získat min. 15 bodů, což by nemělo být 
                     problémem pro nikoho, kdo má o členství v oddíle opravdový zájem. Letos již nebudeme dělat žádné 
-                    vyjímky, na tábor pojedou opravdu jen ti, kteří táborové body splnili.</p>
+                    vyjímky, na tábor pojedou opravdu jen ti, kteří táborové body splnili. Navíc je stanoven ještě jeden 
+                    limit, kdo nezíská během roku alespoň 10TB, s tím už nadále nebudeme počítat.</p>
 				<br />
 				
-<!--				<p style="margin-bottom: 0px">
-				 	<a style="font-size: 25px" target="_blank" href="https://docs.google.com/spreadsheet/ccc?key=0ArXSkomV3fw_dFY3b0pnRFNNUGx0OE5SeWZ4REZPV0E&usp=sharing">
+				<p style="margin-bottom: 0px">
+				 	<a style="font-size: 25px" target="_blank" href="https://docs.google.com/spreadsheets/d/1-WcGunwz73IXrpSWlRd8NvNRipTWa8hfHitkTFIqAeQ/edit?usp=sharing">
 				 	Podrobný rozpis táborových bodů</a>
-				</p>-->
+				</p>
+                <br />
 				<p>Bodové ohodnocení jednotlivých akcí: </p>
                 <ul>
                     <li>Oddílovka - 1 TB</li> 
-                    <li>Jednodenní výprava - 1 TB</li> 
+                    <li>Jednodenní výprava - 1,5 TB</li> 
                     <li>Šestková výprava, Oddílové Vánoce, Závod Stopou bratra Šiwy - 3 TB</li> 
                     <li>Velikonočky, Podzimky - 5 TB</li> 
                 </ul>
