@@ -42,7 +42,7 @@
 				<br />
 				
 				<p style="margin-bottom: 0px">
-				 	<a style="font-size: 25px" target="_blank" href="https://docs.google.com/spreadsheets/d/1qywr4bFb_SQYoi1icgmqCDRzIqvLtT6E58SEsvHMErw/pubhtml?gid=3&single=true">
+				 	<a style="font-size: 25px" target="_blank" href=" https://docs.google.com/spreadsheets/d/1qywr4bFb_SQYoi1icgmqCDRzIqvLtT6E58SEsvHMErw/pubhtml">
 				 	Podrobný rozpis táborových bodů</a>
 				</p>
 				<p>Informace v tabulce za tímto odkazem jsou aktualizovány průběžně, jsou tedy čerstvější než ty níže uvedené!
