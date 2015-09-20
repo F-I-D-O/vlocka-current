@@ -31,7 +31,7 @@
 		
 		<div class="obsah">
 			<h1>Kontakty na oddíl</h1>
-			<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 7. října 2014</p>		
+			<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 20. září 2015</p>		
 			<div class="p2">
 	 			<h2>Vedoucí oddílu:</h2>
 				<p><b>Šárka Sedláčková</b></p>
@@ -53,21 +53,17 @@
 				
 				<h3>Omluvy ze schůzek:</h3>
 				<p><b>fialová šestka světlušek (pondělí): Kateřina Roubová - Medúza</b>, mobil: 728 338 915</p>
-				<p><b>modrá šestka světlušek (středa): Linda Vlčková - Rosnička</b>,  mobil: 722 288 473</p>
-				<p><b>červená šestka světlušek (středa): Eliška Hankovcová - Zvonek</b>,  mobil: 774 088 946</p>
+				<p><b>červená šestka světlušek (středa): Bára Kobesová</b>,  mobil: 602 659 034</p>
 				<p><b>bílá šestka světlušek (středa): Lenka Chvalová - Sojka</b>, mobil: 720 224 159, mail: lenkasojka@gmail.com</p>
 				
 				<p><b>černá šestka vlčat (středa): Zdeněk Chval</b>, mobil: 739 429 970</p>
-				<p>
-					<b>hnědá šestka vlčat (pondělí): Šárka Sedláčková - Syky</b>, mobil: 605 472 772, 
-					mail: vlocka.info@gmail.com
-				</p>
-				<p><b>oranžová šestka vlčat (čtvrtek): Šimon Syrovátka - Bobr</b>, mobil: 774 812 586</p>
+				<p><b>hnědá šestka vlčat (pondělí): Šárka Sedláčková - Syky</b>, mobil: 605 472 772, mail: vlocka.info@gmail.com</p>
+				<p><b>oranžová šestka vlčat (čtvrtek): Richard Faist - Skřet</b>, mobil: 735 003 070</p>
 				
 				<h4>Skauti a skautky se omlovají svým rádcům</h4>
-				<p><b>Rybičky - Bára Kobesová</b>, mobil: 602 659 034</p>
-				<p><b>Káňata - Tomáš Hrubý - Lachtan</b>, mobil: 775 530 036</p>
-				<p><b>Lišáci - Michal Straka - Drak</b>, mobil: 773 608 499</p>
+				<p><b>Lasičky (středa): Linda Vlčková - Rosnička</b>,  mobil: 722 288 473</p>
+                                <p><b>Lišáci (středa): Michal Straka - Drak</b>, mobil: 773 608 499</p>
+				<p><b>Káňata (čtvrtek): Tomáš Hrubý - Lachtan</b>, mobil: 775 530 036</p>
 			</div>
 		</div>
 		<?php require 'php-vzhled/spodek.php'?>			
