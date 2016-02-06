@@ -1,6 +1,7 @@
 <?php namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use Blade;
 
 class BladeServiceProvider extends ServiceProvider {
 
@@ -11,12 +12,17 @@ class BladeServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
+		Blade::extend(function($view, $compiler) {
+			$pattern = '~{{@printif\((.*),(.*)\)}}~';
+            return preg_replace($pattern, '<?php if($1){ echo $2; } ?>', $view);
+        });
+		
 		/* @datetime($var) */
-        \Blade::extend(function($view, $compiler)
+        Blade::extend(function($view, $compiler)
         {
             $pattern = $compiler->createOpenMatcher('datetime');
 
-            return preg_replace($pattern, '$1<?php echo $2->format(\'m/d/Y H:i\')); ?>', $view);
+            return preg_replace($pattern, '$1<?php echo $2->format(\'d. m. Y H:i\')); ?>', $view);
         });
 
         /* @eval($var++) */

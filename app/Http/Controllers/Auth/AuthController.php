@@ -72,6 +72,17 @@ class AuthController extends Controller {
 						$this->username => $this->getFailedLoginMessage(),
 					]);
 	}
+	
+	/**
+	* Handle a logout request to the application.
+	*
+	* @return \Illuminate\Http\Response
+	*/
+	public function postLogout()
+	{
+		Auth::logout();
+		return Redirect::back();
+	}
 
 	
 }

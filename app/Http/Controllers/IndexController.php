@@ -5,6 +5,8 @@ use DateTime;
 use App\Libraries\Tools;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Session;
+use App\Libraries\AjaxResponse;
+use Illuminate\Support\Facades\Request;
 
 class IndexController extends Controller {
 
@@ -36,35 +38,65 @@ class IndexController extends Controller {
 	 */
 	public function index()
 	{
+		return view('index')->with('posts', $this->getPosts());
+	}
+	
+	public function newPost() {
+		$response = new AjaxResponse("Novinka úspěšně přidána");
+		if(Tools::loggedRole(2)){
+			$newPost = new Post();
+			if(empty(Request::input('nadpis'))){
+				$response->addError("Nezadal jsi nadpis!");
+			}
+			else{
+				$newPost->nadpis = Request::input('nadpis');
+			}
+			if(empty(Request::input('text'))){
+				$response->addError("Nezadali jste žádný text!");
+			}
+			else{
+				$newPost->text = Request::input('text');
+			}
+			
+			$newPost->aktivni = Tools::loggedRole(1) ? 1 : 0;
+			
+			if($response->success){
+				$newPost->save();
+				$response->data = $newPost;
+			}
+		}
+		else{
+			$response->addError("Nemáš oprávnění přidat novinku!");
+		}
+		return json_encode($response);
+	}
+	
+	public function archiv($year, $month){
+		return view('index')->with('posts', $this->getPosts($year, $month));
+	}
+	
+	private function getPosts($year = NULL, $month = NULL){
 //		var_dump(Auth::check());
 //			var_dump(Session::all());
-//				die('ta');
 		
-//		if(array_key_exists("archiv", $_GET)){
-//			$datum_ted = new DateTime($_GET["archiv"]);
-//		}
-//		else{
-			$dateNow = new DateTime();
-//		}
-		$firstDayOfMonth = clone $dateNow;
-		$firstDayOfMonth->modify("-1 month");
+		if($year){
+			$startDay = new DateTime("{$year}-{$month}-01");
+			$endDay = new DateTime(date("Y-m-t", $startDay->getTimestamp()));
+		}
+		else{
+			$endDay = new DateTime();
+			$startDay = clone $endDay;
+			$startDay->modify("-1 month");
+		}
 		
-//		if(Tools::loggedRole(2)){
-//			$sql = "SELECT * FROM novinky WHERE datum BETWEEN '{$firstDayOfMonth->format("Y-m-d H:i:00")}' AND 
-//				'{$dateNow->format("Y-m-d H:i:00")}' ORDER BY datum DESC"; 
-//		}
-//		else{
-//			$sql = "SELECT * FROM novinky WHERE aktivni > 0 AND datum BETWEEN 
-//				'{$firstDayOfMonth->format("Y-m-d H:i:00")}' AND '{$dateNow->format("Y-m-d H:i:00")}'
-//					ORDER BY datum DESC";
-//		}
-		$statement = Post::whereBetween('datum', 
-				array($firstDayOfMonth->format("Y-m-d H:i:00"), $dateNow->format("Y-m-d H:i:00")));
-		if(Tools::loggedRole(2)){
+		$statement = Post::whereBetween('created_at', 
+				array($startDay->format("Y-m-d H:i:00"), $endDay->format("Y-m-d H:i:00")));
+		if(!Tools::loggedRole(2)){
 			$statement->where('aktivni', 1);
 		}
-		$posts = $statement->orderBy('datum', 'DESC')->get();
-		return view('index')->with('posts', $posts);
+		$posts = $statement->orderBy('created_at', 'DESC')->get();
+		return $posts;
 	}
+	
 
 }

@@ -2,6 +2,8 @@
 
 namespace App\Libraries;
 
+use Illuminate\Support\Facades\Auth;
+
 /**
  * Description of Tools
  *
@@ -9,7 +11,7 @@ namespace App\Libraries;
  */
 class Tools {
 	
-	const ROOT = 'vlocka-current/public';
+	const ROOT = 'vlocka-current';
 	
 	const ASSET_ROOT = 'vlocka-current/public';
 	
@@ -22,7 +24,11 @@ class Tools {
 	}
 
 	public static function loggedRole($role){
-		return true;
+		return Auth::check() && Auth::user()->role <= $role;
+	}
+	
+	public static function getRole(){
+		return !Auth::check() ? 1000 : Auth::user()->role;
 	}
 	
 	public static function czechMonth($cislo_mesice){

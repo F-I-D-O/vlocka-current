@@ -98,16 +98,16 @@
 			
 			<div id="archiv_novinek">
 				<?php 
-				$datm_ted = new DateTime();
-				$datum_arch = new DateTime($datm_ted->format("Y-m"));
-				while($datum_arch > new DateTime("2011-09-01 00:00:00")){					
-					$archiv = $datum_arch->format("Y-m-d");
-					$datum_arch->modify("-1 month");
+				$dateNow = new DateTime();
+				$dateArch = new DateTime($dateNow->format("Y-m"));
+				while($dateArch > new DateTime("2011-09-01 00:00:00")){					
+					$archiv = $dateArch->format("Y-m-d");
+					$dateArch->modify("-1 month");
 					
-					echo("<a href=\"index.php?archiv=" . $archiv . "\">" . " " . mesic($datum_arch->format("m")) . " " . 
-					$datum_arch->format("Y") . "</a> ");
+					echo("<a href=\"index.php?archiv=" . $archiv . "\">" . " " . mesic($dateArch->format("m")) . " " . 
+					$dateArch->format("Y") . "</a> ");
 					
-					if($datum_arch->format("Y-m") != "2011-09"){
+					if($dateArch->format("Y-m") != "2011-09"){
 						echo("|");
 					}				
 				}				

@@ -1,19 +1,26 @@
 @import "bootstrap/bootstrap";
 
-@btn-font-weight: 300;
-@font-family-sans-serif: "Roboto", Helvetica, Arial, sans-serif;
+/*@btn-font-weight: 300;*/
+/*@font-family-sans-serif: "Roboto", Helvetica, Arial, sans-serif;*/
 
-body, label, .checkbox label {
+/*body, label, .checkbox label {
 	font-weight: 300;
-}
+}*/
+
+/* COLORS */
+@vlocka-main-color: #26316c;
+@vlocka-main-color-light: #26316c;
+
+/* ELEMENTS */
 
 * {
     font-family: Arial;
 }
 
 body {
-	margin: 0px;
-    /*background: #b2b2b2;*/
+	margin: 0px; /* musí zde být, body má margin defaultní, ač to vypadá jako hovadina!! */
+	font-size: 14px;
+	text-align: justify;
 }
 
 button {
@@ -34,14 +41,58 @@ footer {
     background: #e19edf;
 }
 
+img {
+ 	border: 0px; /* musí zde být, defaultně se okraj vykresluje všude!! */
+ 	margin: 0px;
+}
 
-
-#hlavni {
-    width: 100%;
-    overflow: auto;
-        
-    /*background: #c9e19e;*/
+p { 
+	margin: 0 0 10px 0;
+}
 	
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #00395C; /*#26316C referenční barva, taková je barvy pozadí stránek */ 
+}
+
+a:hover {
+	text-decoration: underline;
+}
+	
+table {
+	border-collapse: collapse;	
+}
+
+h1 {
+	padding: 10px 0px 10px 10px;
+	margin: 0px;
+	font-size: 30px;
+}
+
+h2 {
+	padding: 10px 0px 0px 10px;
+	text-align: left;
+	margin: 0px;
+	font-size: 25px;
+}
+
+h3 {
+	padding: 10px 0px 0px 10px;
+	margin: 0px;
+	font-size: 20px;
+}
+
+h4 {
+	padding: 10px 0px 0px 10px;
+	margin: 0px;
+	font-size: 15px;
+}
+
+/* SELECTORS */
+
+.container {
+	background-color: desaturate(lighten(@vlocka-main-color, 60%), 10%);
 }
 
 #nadpis {
@@ -57,20 +108,7 @@ footer {
     background: #684215;
 }
 
-#obal-hlavni_slider {
-    background: #000000;
-}
 
-
-
-
-#obal-hlavni_slider .nivoSlider {
-    clear: both;
-    max-width: 1000px;
-    height: 500px;
-    margin: auto;
-    background: #f0c040;
-}
 
 
 
@@ -461,82 +499,13 @@ footer {
 	padding-top: 2vw;
 }
 
-/*
-==========================
-----------ZNAČKY----------
-==========================
-*/
 
-body {
-	font-family: arial;
-	font-size: 14px;
-	text-align: justify;
-	background: #F9BE3C;
-	margin: 0px; /* musí zde být, body má margin defaultní, ač to vypadá jako hovadina!! */
-}
-
-img {
- 	border: 0px; /* musí zde být, defaultně se okraj vykresluje všude!! */
- 	margin: 0px;
-}
-
-p { 
-	margin: 0 0 10px 0;
-}
-	
-a {
-	text-decoration: none;
-	font-weight: bold;
-	color: #00395C; /*#26316C referenční barva, taková je barvy pozadí stránek */ 
-}
-
-a:hover {
-	text-decoration: underline;
-}
-	
-table {
-	border-collapse: collapse;	
-}
-
-h1 {
-	padding: 10px 0px 10px 10px;
-	margin: 0px;
-	font-size: 30px;
-}
-
-h2 {
-	padding: 10px 0px 0px 10px;
-	text-align: left;
-	margin: 0px;
-	font-size: 25px;
-}
-
-h3 {
-	padding: 10px 0px 0px 10px;
-	margin: 0px;
-	font-size: 20px;
-}
-
-h4 {
-	padding: 10px 0px 0px 10px;
-	margin: 0px;
-	font-size: 15px;
-}
 
 /*
 =========================
 ----------TŘÍDY----------
 =========================
 */
-
-#hlavni {
-	margin: auto;
-	padding-bottom: 3px;
-	position: relative;
-	width: 1000px;
-	background-color: #26316C;
-	border-radius: 20px;
-}
 
 #zahlavi {
 	float: left;

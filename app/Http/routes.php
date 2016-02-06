@@ -13,15 +13,21 @@
 
 //Rou
 
+//echo var_dump(Route::getCurrentRoute()); die;
+
 Route::group(array('prefix' => 'vlocka-current'), function (){
 	Route::get('/', 'IndexController@index');
+	Route::get('/archiv/{year}/{month}', 'IndexController@archiv');
+	Route::post('new-post', 'IndexController@newPost');
+	Route::resource('post', 'PostController');
+	Route::controllers([
+		'auth' => 'Auth\AuthController',
+		'password' => 'Auth\PasswordController',
+	]);
 });
 		
 //Route::get('/vlocka-current/', 'WelcomeController@index');
 
 Route::get('home', 'HomeController@index');
 
-Route::controllers([
-	'auth' => 'Auth\AuthController',
-	'password' => 'Auth\PasswordController',
-]);
+

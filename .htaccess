@@ -2,4 +2,8 @@
 RewriteEngine On
 
 RewriteRule ^$ public/ [L]
+RewriteRule ^(archiv/.*)$ public/$1 [L]
+RewriteRule ^(auth/.*)$ public/$1 [L]
+RewriteRule ^new-post$ public/new-post [L]
+RewriteRule ^post/(.*)$ public/post/$1 [L]
 

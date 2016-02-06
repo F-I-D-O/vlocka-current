@@ -6,5 +6,5 @@ class Post extends Model {
 
 	protected $table = 'novinky';
 	
-
+	protected $primaryKey = 'ID';
 }

@@ -879,7 +879,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
@@ -2714,7 +2714,7 @@ select[multiple].form-group-lg .form-control {
 .btn {
   display: inline-block;
   margin-bottom: 0;
-  font-weight: 300;
+  font-weight: normal;
   text-align: center;
   vertical-align: middle;
   -ms-touch-action: manipulation;
@@ -5499,7 +5499,7 @@ button.close {
   z-index: 1070;
   display: block;
   visibility: visible;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
   line-height: 1.4;
@@ -5606,7 +5606,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: normal;
   line-height: 1.42857143;
@@ -6224,17 +6224,21 @@ button.close {
     display: none !important;
   }
 }
-body,
-label,
-.checkbox label {
-  font-weight: 300;
-}
+/*@btn-font-weight: 300;*/
+/*@font-family-sans-serif: "Roboto", Helvetica, Arial, sans-serif;*/
+/*body, label, .checkbox label {
+	font-weight: 300;
+}*/
+/* COLORS */
+/* ELEMENTS */
 * {
   font-family: Arial;
 }
 body {
   margin: 0px;
-  /*background: #b2b2b2;*/
+  /* musí zde být, body má margin defaultní, ač to vypadá jako hovadina!! */
+  font-size: 14px;
+  text-align: justify;
 }
 button {
   display: block;
@@ -6251,10 +6255,50 @@ footer {
   margin: auto;
   background: #e19edf;
 }
-#hlavni {
-  width: 100%;
-  overflow: auto;
-  /*background: #c9e19e;*/
+img {
+  border: 0px;
+  /* musí zde být, defaultně se okraj vykresluje všude!! */
+  margin: 0px;
+}
+p {
+  margin: 0 0 10px 0;
+}
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #00395C;
+  /*#26316C referenční barva, taková je barvy pozadí stránek */
+}
+a:hover {
+  text-decoration: underline;
+}
+table {
+  border-collapse: collapse;
+}
+h1 {
+  padding: 10px 0px 10px 10px;
+  margin: 0px;
+  font-size: 30px;
+}
+h2 {
+  padding: 10px 0px 0px 10px;
+  text-align: left;
+  margin: 0px;
+  font-size: 25px;
+}
+h3 {
+  padding: 10px 0px 0px 10px;
+  margin: 0px;
+  font-size: 20px;
+}
+h4 {
+  padding: 10px 0px 0px 10px;
+  margin: 0px;
+  font-size: 15px;
+}
+/* SELECTORS */
+.container {
+  background-color: #d7daed;
 }
 #nadpis {
   float: left;
@@ -6265,16 +6309,6 @@ footer {
 }
 #obal-hlavicka {
   background: #684215;
-}
-#obal-hlavni_slider {
-  background: #000000;
-}
-#obal-hlavni_slider .nivoSlider {
-  clear: both;
-  max-width: 1000px;
-  height: 500px;
-  margin: auto;
-  background: #f0c040;
 }
 .info {
   display: none;
@@ -6576,72 +6610,10 @@ footer {
   padding-top: 2vw;
 }
 /*
-==========================
-----------ZNAČKY----------
-==========================
-*/
-body {
-  font-family: arial;
-  font-size: 14px;
-  text-align: justify;
-  background: #F9BE3C;
-  margin: 0px;
-  /* musí zde být, body má margin defaultní, ač to vypadá jako hovadina!! */
-}
-img {
-  border: 0px;
-  /* musí zde být, defaultně se okraj vykresluje všude!! */
-  margin: 0px;
-}
-p {
-  margin: 0 0 10px 0;
-}
-a {
-  text-decoration: none;
-  font-weight: bold;
-  color: #00395C;
-  /*#26316C referenční barva, taková je barvy pozadí stránek */
-}
-a:hover {
-  text-decoration: underline;
-}
-table {
-  border-collapse: collapse;
-}
-h1 {
-  padding: 10px 0px 10px 10px;
-  margin: 0px;
-  font-size: 30px;
-}
-h2 {
-  padding: 10px 0px 0px 10px;
-  text-align: left;
-  margin: 0px;
-  font-size: 25px;
-}
-h3 {
-  padding: 10px 0px 0px 10px;
-  margin: 0px;
-  font-size: 20px;
-}
-h4 {
-  padding: 10px 0px 0px 10px;
-  margin: 0px;
-  font-size: 15px;
-}
-/*
 =========================
 ----------TŘÍDY----------
 =========================
 */
-#hlavni {
-  margin: auto;
-  padding-bottom: 3px;
-  position: relative;
-  width: 1000px;
-  background-color: #26316C;
-  border-radius: 20px;
-}
 #zahlavi {
   float: left;
   height: 265px;
