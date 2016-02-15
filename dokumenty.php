@@ -39,24 +39,24 @@
 						Registrace 2015
 					</a>
 				</p>
-				<p>
-					<a target="_blank" href="dokumenty/info_pro_novacky_2014.pdf">
-						Informace pro nováčky 2014
+-->				<p>
+					<a target="_blank" href="dokumenty/Informace-pro-rodiče-nováčků-2015.pdf">
+						Informace pro nováčky 2015
+					</a>
+				</p><!--
+-->				<p>
+					<a target="_blank" href="dokumenty/Informace-pro-rodiče-vlčat-a-světlušek-2015.pdf">
+						Informace pro rodiče včat a světlušek 2015
 					</a>
 				</p>
-				<p>
-					<a target="_blank" href="dokumenty/informace_pro_rodice_2014.pdf">
-						Informace pro rodiče 2014
-					</a>
-				</p>-->
-                <p><a  target="_blank" href="dokumenty/Seznam-věcí.pdf">Seznam věcí na tábor 2015</a></p>
+<!--                <p><a  target="_blank" href="dokumenty/Seznam-věcí.pdf">Seznam věcí na tábor 2015</a></p>
                 <p><a  target="_blank" href="dokumenty/Druhé-info-tábor-2015.pdf">Další informace o táboře 2015</a></p>
 	 			<p><a  target="_blank" href="dokumenty/první-info.pdf">Informace o táboře 2015</a></p>
 	 			<p>
 					Přihláška na tábor 2015 
 					<a target="_blank" href="dokumenty/prihlaska_tabor_2015.doc">DOC</a>
 					<a target="_blank" href="dokumenty/prihlaska_tabor_2015.pdf">PDF</a>
-				</p>
+				</p>-->
 <!--	 			<p><a target="_blank" href="dokumenty/T%C3%A1bor%202014%20-%20informace.pdf">
 			 		Informace o táboře 2014
 			 	</a></p>-->
