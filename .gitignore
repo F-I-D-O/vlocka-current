@@ -3,3 +3,5 @@
 /secure/
 /php/secure/
 /storage/
+/node_modules/
+/vendor/
