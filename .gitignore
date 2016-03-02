@@ -3,3 +3,6 @@
 /secure/
 /php/secure/
 /bower_components/
+/node_modules/
+/vendor/
+/storage/
