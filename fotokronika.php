@@ -165,6 +165,8 @@ require 'php/funkce.php';
 			/* Výpis menu */
 			else{ ?>
 				<h1>Fotokronika</h1>
+					<h2>2016</h2>
+	    				<a href="fotokronika.php?rok=2016"><img src="fotky/fotokronika/2016.JPG" alt="rok 2016" width="650px"/></a>
 					<h2>2015</h2>
 	    				<a href="fotokronika.php?rok=2015"><img src="fotky/fotokronika/2015.JPG" alt="rok 2015" width="650px"/></a>
 					<h2>2014</h2>
