@@ -26,7 +26,7 @@
 			<h1> Strašidelný les</h1>
 				<img src="fotky/vecer1.jpg" alt="" width="290" />
 				<img src="fotky/vecer2.jpg" alt="" width="290" />						 
-			 	<p>Strašidelný les se uskuteční <span style="text-decoration: underline">v pátek 11. září 2015 u Seneckého 
+			 	<p>Strašidelný les se uskuteční <span style="text-decoration: underline">v pátek 9. září 2016 u Seneckého 
 			 	rybníka</span>. Tato akce, určená pro odvážné kluky a holky s rodiči, pro školáky i předškoláky, má již 
 			 	více než desetiletou tradici. Start akce bude probíhat mezi 19:30 a 21:30, už teď se můžete 
 			 	přihlašovat, aby jste měli své místo jisté! 
@@ -36,20 +36,20 @@
 			 	<br />
 			 	<br />
 			 	<p style="font: bold 30px Arial; text-align: center">
-			 		<!--<a href="http://vlocka-les.kambo.us/index.php/enroll/index" target="_blank">-->
-			 			Přihlašování na Strašidelný les SKONČILO
-			 		<!--</a>-->
+			 		<a href="http://vlocka-les.kambo.us/index.php/enroll/index" target="_blank">
+		 			Přihlašování na Strašidelný les <!-- SKONČILO -->
+			 		</a>
 			 	</p>
 				<!--<p style="font: 15px Arial; text-align: center">(Přihlašování ještě nezačalo)</p>-->
 			 	<p style="font: 15px Arial; text-align: center">(Kdo nebude přihlášen, dostane se na trasu pouze v případě že někdo přihlášený nedorazí!)</p>
 			 	<br />
-			 	<p style="font: 15px Arial; text-align: center">Konec přihlašování je v pátek 11. 9. ve 14:00!!</p>
+			 	<p style="font: 15px Arial; text-align: center">Konec přihlašování je v pátek 9. 9. ve 14:00!!</p>
 			 	<br />
 			 	<br />
 			 	<br />
 			 	<p>Podívejte se také na <a target="_blank" href="stare/Fotokronika/HROCH2009/index.html">fotografie</a>
 			 	z  minulých let</p>
-			 	<img src="obrazky/plakaty/strasidla2015.png" alt="strašidelný les - plakát" width="670" />
+			 	<img src="obrazky/plakaty/strasidla2016.jpg" alt="strašidelný les - plakát" width="670" />
 		</div>
 		<?php require 'php-vzhled/spodek.php'?>			
 	</div>
