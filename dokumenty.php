@@ -38,8 +38,13 @@
 					<a target="_blank" href="dokumenty/registrace-2015.pdf">
 						Registrace 2015
 					</a>
+				</p>-->
+                                <p>
+                                    <a target="_blank" href="dokumenty/Zvací-dopis-2016.pdf">
+                                        Zvací dopis 2016
+                                    </a>
 				</p>
--->				<p>
+				<p>
 					<a target="_blank" href="dokumenty/Informace-pro-rodiče-nováčků-2015.pdf">
 						Informace pro nováčky 2015
 					</a>
