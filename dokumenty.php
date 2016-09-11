@@ -40,11 +40,11 @@
 					</a>
 				</p>
 -->				<p>
-					<a target="_blank" href="dokumenty/Informace-pro-rodiče-nováčků-2015.pdf">
-						Informace pro nováčky 2015
+					<a target="_blank" href="dokumenty/Informace-pro-nováčky-2016.pdf">
+						Informace pro nováčky 2016
 					</a>
-				</p><!--
--->				<p>
+				</p>
+				<!--<p>
 					<a target="_blank" href="dokumenty/Informace-pro-rodiče-vlčat-a-světlušek-2015.pdf">
 						Informace pro rodiče včat a světlušek 2015
 					</a>
