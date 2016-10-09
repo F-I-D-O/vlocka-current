@@ -31,7 +31,7 @@
 		
 		<div class="obsah">				
 			<h1>Přijímáme nové členy!</h1> 
-				<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 20. září 2015</p>
+				<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 9. října 2016</p>
 				<h2>Chceš:</h2>
 				 	<ul style="font-weight: bold">
 						<li>najít opravdové kamarády a patřit do té správné party 
@@ -52,13 +52,13 @@
 					<h3>Přijď se podívat na některou schůzku!</h3>
 						<h4>středa – 16:00 – 19:00</h4>
 							<ul>
-                                                            <li>Lasičky (holky 10 – 12 let)</li>
-                                                            <li>Lišáci (kluci 10 - 12 let)</li>					 	
+                                <li>Lasičky (holky 10 – 12 let)</li>
+                                <li>Lišáci (kluci 10 - 14 let)</li>					 	
 							</ul> 	
 				 		<h4>čtvrtek – 16:00 - 19:00h</h4>
 					 		<ul>
-                                                            <li>Káňata (kluci 11 – 13 let) </li>
-							 	
+                                <li>Káňata (kluci 10 – 14 let) </li>
+                                <li>Rysové (kluci 10 – 12 let) </li>
 							</ul>
                                                 
 					 		<br>
@@ -66,28 +66,35 @@
                                                             některé dítě ukončí činnost, budeme Vás kontaktovat.</p>
                                                         
 					 		<p>Sraz je vždy v 16h na konečné tramvaje č. 1 v Bolevci, návrat  v 19h tamtéž.</p>	
-                                                        
-					 	<h4>Kontakt pro nováčky</h4>	 
-                                                        <ul>
-                                                            <li>Michal Straka – Drak, mobil: 773 608 499, mail: michalstraka1236@gmail.com (vůdce skautů)</li>
-                                                            <li>Šárka Sedláčková - Syky, mobil: 605 472 772, mail: vlocka.info@gmail.com (vůdkyně oddílu)</li>
-                                                        </ul>
+        <h2 id="prijem">Přijímáme nová vlčata a světlušky - od 6 do 10 let!</h2>
+            <p>V letošním roce přešlo velké množství mladších dětí do starší věkové kategorie a náš oddíl je po dlouhé době schopen přijmout nové členy. Přijímáme kluky a holky ve věku 6 - 10 let (1. - 5. třída).</p>
+            <h4>Schůzky budou takto:</h4>
+                <ul>
+                    <li>v pondělí od 16.30 do 19 h (hnědá šestka vlčat a fialová šestka světlušek)</li>
+                    <li>ve středu od 16 do 18,30 h (černá šestka vlčat a červená šestka světlušek)</li>					 	
+                </ul>
+            <p>V případě zájmu se prosím hlaste na oddílovém mailu vlocka.info@gmail.com</p>
+            <p>Těšíme se na Vás!</p>                           
+                <h4>Kontakt pro nováčky</h4>	 
+                    <ul>
+                        <li>Michal Straka – Drak, mobil: 773 608 499, mail: michalstraka1236@gmail.com (vůdce skautů)</li>
+                        <li>Jakub Straka – Gandalf, mobil: 773 608 498, mail: jakubstraka123@gmail.com (vůdce skautů)</li>
+                        <li>Šárka Sedláčková - Syky, mobil: 605 472 772, mail: vlocka.info@gmail.com (vůdkyně oddílu)</li>
+                    </ul>
 
-						<h4>Jak se přihlásit?</h4>
-							<ul>
-                                                            <li>přijďte se podívat na některou ze zářijových schůzek!</li>
-                                                            <li>ozvěte se nám mailem, telefonicky apod.!</li>
-                                                            <li>přijďte na Odpoledne jako hroch a Strašidelný les!</li>
-                                                            <li>...vypadá to složitě, ale je to tak jednoduché - stačí přijít!!</li>
-
-                                                        </ul>
-                                                        
-   					 	<h4>Kdo k nám chodí?</h4>
-                                                        <br>
-  					 		<p>Kluci a holky od pěti let nejen z Košutky, Bolevce, Vinic, ale i z Bor, Slovan, středu města,
-                                                            Roudné, Doubravky a dalších částí Plzně. Máme i několik mimoplzeňských členů - záleží
-                                                            jen na tom odkud jsou ochotni dojíždět (nebo spíš na ochotě rodičů je k nám vozit...)</p>
-							<p>Těšíme se na tebe!<p>
+                <h4>Jak se přihlásit?</h4>
+                    <ul>
+                        <li>přijďte se podívat na některou ze zářijových schůzek!</li>
+                        <li>ozvěte se nám mailem, telefonicky apod.!</li>
+                        <li>přijďte na Odpoledne jako hroch a Strašidelný les!</li>
+                        <li>...vypadá to složitě, ale je to tak jednoduché - stačí přijít!!</li>
+                    </ul>
+                <h4>Kdo k nám chodí?</h4>
+                    <br>
+                    <p>Kluci a holky od pěti let nejen z Košutky, Bolevce, Vinic, ale i z Bor, Slovan, středu města,
+                                                    Roudné, Doubravky a dalších částí Plzně. Máme i několik mimoplzeňských členů - záleží
+                                                    jen na tom odkud jsou ochotni dojíždět (nebo spíš na ochotě rodičů je k nám vozit...)</p>
+                    <p>Těšíme se na tebe!<p>
 		</div>
 		<?php require 'php-vzhled/spodek.php'?>			
 	</div>
