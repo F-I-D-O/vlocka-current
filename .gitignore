@@ -1,8 +1,9 @@
 /nbproject/private/
-/nbproject/
+nbproject/
 /secure/
 /php/secure/
 /storage/
 /node_modules/
 /vendor/
 *.orig
+fotky/
