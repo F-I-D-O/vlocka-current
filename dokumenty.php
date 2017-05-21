@@ -34,7 +34,7 @@
 		
 		<div class="obsah">		
 	 		<h1>Dokumenty ke stažení</h1>
-				<p>
+<!--				<p>
 					<a target="_blank" href="dokumenty/registrace-2017.pdf">
 						Registrace 2017
 					</a>
@@ -43,7 +43,7 @@
 					<a target="_blank" href="dokumenty/Zvací-dopis-2016.pdf">
 						Zvací dopis 2016
 					</a>
-				</p>
+				</p>-->
 				<p>
 					<a target="_blank" href="dokumenty/Informace-pro-nováčky-2016.pdf">
 						Informace pro nováčky 2016
@@ -57,11 +57,11 @@
                 <!--<p><a  target="_blank" href="dokumenty/Seznam-věcí.pdf">Seznam věcí na tábor 2015</a></p>-->
                 <!--<p><a  target="_blank" href="dokumenty/Druhé-info-tábor-2015.pdf">Další informace o táboře 2015</a></p>-->
 	 			<p><a  target="_blank" href="dokumenty/První-informace-k-táboru.pdf">Informace o táboře 2017</a></p>
-<!--	 			<p>
-					Přihláška na tábor 2015 
-					<a target="_blank" href="dokumenty/prihlaska_tabor_2015.doc">DOC</a>
-					<a target="_blank" href="dokumenty/prihlaska_tabor_2015.pdf">PDF</a>
-				</p>-->
+	 			<p>
+					Přihláška na tábor 2017
+                    <a target="_blank" href="dokumenty/Přihláška dítěte do skautského tábora.doc.docx">DOC</a>
+                    <a target="_blank" href="dokumenty/Přihláška dítěte do skautského tábora.doc.pdf">PDF</a>
+				</p>
 <!--	 			<p><a target="_blank" href="dokumenty/T%C3%A1bor%202014%20-%20informace.pdf">
 			 		Informace o táboře 2014
 			 	</a></p>-->
