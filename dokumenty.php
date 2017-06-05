@@ -55,7 +55,7 @@
 					</a>
 				</p>-->
                 <!--<p><a  target="_blank" href="dokumenty/Seznam-věcí.pdf">Seznam věcí na tábor 2015</a></p>-->
-                <!--<p><a  target="_blank" href="dokumenty/Druhé-info-tábor-2015.pdf">Další informace o táboře 2015</a></p>-->
+                <p><a  target="_blank" href="dokumenty/Druhé info + seznam věcí 2016.docx.pdf">Další informace o táboře 2017</a></p>
 	 			<p><a  target="_blank" href="dokumenty/První-informace-k-táboru.pdf">Informace o táboře 2017</a></p>
 	 			<p>
 					Přihláška na tábor 2017
