@@ -123,12 +123,12 @@
 			<!--<a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/pohadkovy_les.php") ?>">
 				<img src="obrazky/ikony/pohadkovyles2014.jpg" alt="Strašidelný les 2013">
 			</a>-->
-			<a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/les.php") ?>">
+<!--			<a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/les.php") ?>">
 				<img src="obrazky/ikony/les2016.jpg" alt="Strašidelný les 2016">
-			</a>	
-			<a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/hroch.php") ?>">
+			</a>	-->
+<!--			<a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/hroch.php") ?>">
 				<img src="obrazky/ikony/hroch2016.jpg" alt="Odpoledne jako hroch 2016">
-			</a>
+			</a>-->
                         
 <!--			<a href="<?php echo("http://plzentabor.skauting.cz/") ?>" target="_blank">
 				<img src="obrazky/ikony/tabory.PNG" alt="Příměstské tábory 2015">
