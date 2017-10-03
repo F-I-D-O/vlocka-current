@@ -31,24 +31,21 @@
 		
 		<div class="obsah">
 			<h1>Táborové body skautů a skautek </h1>
-				<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 12. září 2015</p>
+				<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 1. října 2017</p>
 				<p>Letos budou skauti a skautky opět plnit táborové body. Co to pro ně znamená? Každý skaut nebo 
-				skautka, který/á chce jet na tábor, musí splnit k 30. 4. 2016 táborové body(TB). Počet táborových 
-				bodů nutných pro účast na táboře byl letos stanoven na <u>35</u>. Kolik má kdo táborových bodů 
+				skautka, který/á chce jet na tábor, musí splnit k 30. 4. 2018 táborové body(TB). Počet táborových 
+				bodů nutných pro účast na táboře byl letos stanoven na <u>30</u>. Kolik má kdo táborových bodů 
 				bude možné průběžně sledovat na této stránce. Táborové body je možné záskat za spoustu věcí, 
 				zde je jejich seznam:</p>
 				<ol>
 		 			<li><b>výpravy:</b> většinou 1TB za každý den výpryavy (na víkendové akci tedy obvykle 3 TB, 
 		 				na podzimkách 5, na Velikonocích 4...)
 		 			</li>
-					<li><b>bodování:</b> každý měsíc 1 TB za alespoň 70% bodování nejlepšího skauta, 
-						nejlepší skaut obdrží 2TB
-					</li>
 					<li><b>docházka na schůzkách:</b> každý měsíc 1 TB za alespoň 70% docházku na schůzkách. 
 						Za 100% docházku 2TB
 					</li>
-					<li><b>stezka:</b> 3 body za splnění stránky ve stezce, max. 9 bodů za měsíc</li>
-					<li><u><b>odborky:</b> za každou splněnou odborku 2TB</u></li>
+					<li><b>stezka:</b> 3TB za splnění jednoho stupně stezky</li>
+					<li><u><b>odborky:</b> za každou splněnou odborku 3TB</u></li>
 					<li><b>umístění v závodě:</b> podle umístění...</li>
 					<li><b>mimořádné činny:</b> učast na brigádách, jiná pomoc oddílu...</li>
 				</ol>	 
@@ -60,8 +57,8 @@
 					</ol> 
 					<p>Získat stanovený počet Táborových bodů není nijak složité, stačí chodit na schůzky a 
 					jezdit na výpravy a účast na táboře je zaručena. Jen za docházku na schůzkách a výpravách 
-					lze letos získat 60TB!. Ani větší snaha ale není zbytečná, skauty a skautky s alespoň 
-					45TB toho také čeká výprava	za odměnu!</p>
+					lze letos získat 47TB!. Ani větší snaha ale není zbytečná, skauty a skautky s alespoň 
+					38TB toho také čeká výprava	za odměnu!</p>
 		</div>
 		<?php require 'php-vzhled/spodek.php'?>			
 	</div>

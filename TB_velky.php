@@ -31,24 +31,25 @@
 		
 		<div class="obsah">
 			<h1>Táborové body skautů a skautek</h1>
-				<p style="position: relative; top: -45px; left: 480px;">Aktualizováno 9. října 2016</p>
+				<p style="position: relative; top: -45px; left: 480px;">Aktualizováno 1. října 2017</p>
 				<p>Letos budou skauti a skautky opět plnit táborové body. Co to pro ně 
-				znamená? Každý skaut nebo skautka, který/á chce jet na tábor, musí splnit k <u>30. 4. 2017</u> táborové 
-				body(TB). Počet táborových bodů nutných pro účast na táboře byl letos stanoven na <u>35</u>. Kolik má kdo 
-				táborových bodů bude možné průběžně sledovat na této stránce. Táborové body je možné získat za spoustu 
+				znamená? Každý skaut nebo skautka, který/á chce jet na tábor, musí splnit k <u>30. 4. 2018</u> táborové 
+				body(TB). Počet táborových bodů nutných pro účast na táboře byl letos stanoven na <u>30</u>. Kolik má kdo 
+				táborových bodů bude možné průběžně sledovat na stránce jejíž odkaz je uveden níže. Táborové body je možné získat za spoustu 
 				věcí, jejich seznam je <a href="TB_podminky.php">zde</a></p>
 				<p><u>Nejlepší skauty a skautky čeká nějaká odměna.</u> 
-				(hranice pro odměnu byla zatím stanovena na <u>45 TB</u>)</p>
+				(hranice pro odměnu byla zatím stanovena na <u>38 TB</u>)</p>
 				<br />
 				
 				<p style="margin-bottom: 0px">
-				 	<a style="font-size: 25px" target="_blank" href="https://docs.google.com/spreadsheets/d/1IYYarevcL6C5kqAAuW1LRUcUvZ4OXRDROTIT0oiBxoQ/pubhtml">
+				 	<a style="font-size: 25px" target="_blank" href=" https://docs.google.com/spreadsheets/d/e/2PACX-1vThKf2eXf3fMIdlyKIwnyNA-n8nzNnQhjGtBLW8UeL04K6eOyhdzjOpRtFI6eZxQUTAafLQe6n7hzD9/pubhtml">
 				 	Podrobný rozpis táborových bodů</a>
 				</p>
-				<p>Informace v tabulce za tímto odkazem jsou aktualizovány průběžně, jsou tedy čerstvější než ty níže uvedené!
-					(datum poslední aktualizace této stránky je uveden vpravo nahoře). Pokud najdete chyby, ozvěte se Gandalfovi)</p>
+				<p>Informace v tabulce za tímto odkazem jsou aktualizovány průběžně. Pokud najdete chyby, ozvěte se Gandalfovi)</p>
 				<br />
-<!--				<h2>Získané táborové body (Za Hrocha a Strašidelný les)</h2>
+				
+				<!--
+				<h2>Získané táborové body (Za Hrocha a Strašidelný les)</h2>
 					<h3>Vysvětlivky:</h3>
 				 	<div class="TB">
 					 	<div class="TB3">
@@ -58,9 +59,10 @@
 			 				<tr><td bgcolor=red> </td><td>Na tábor nejspíš nepojedu</td></tr>
 						</table>
 					 	</div>
-				 	</div>-->
-				 <!--<br />-->
-<!--				 <div class="TB">
+				 	</div>
+				 <br />
+				 <div class="TB">
+				 
 				 	<div class="TB2">
 						<h3>Lišáci</h3>
 							<table>	
@@ -106,7 +108,8 @@
 				 				<tr><td>Kapka</td><td>0</td></tr>
 							</table>
 					</div>
-				</div>-->
+				</div>
+				-->
 		</div>
 		<?php require 'php-vzhled/spodek.php'?>			
 	</div>

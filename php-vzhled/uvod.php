@@ -12,5 +12,5 @@
 	<p style="font: bold 16px Comic Sans MS; margin: 0">Vítejte na stránkách Vločky...</p>
 	<p style="margin: 0">Jsme oddíl světlušek, vlčat, skautů, skautek a 
 	R&amp;R, dohromady je nás okolo 100 VLOČEK - jsme taková malá lavina a klubovnu máme u Seneckého rybníka 
-	(Plzeň - Bolevec). Oslavili jsme dvanácté narozeniny...</p>
+	(Plzeň - Bolevec). Oslavili jsme osmnácté narozeniny...</p>
 </div>

@@ -31,7 +31,7 @@
 		
 		<div class="obsah">
 			<h1>Kontakty na oddíl</h1>
-			<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 7. října 2016</p>		
+			<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 1. října 2017</p>		
 			<div class="p2">
 	 			<h2>Vedoucí oddílu:</h2>
 				<p><b>Michal Straka</b></p>
@@ -56,11 +56,10 @@
 				<p><b>hnědá šestka vlčat (pondělí): Brumík - Kateřina Brumovská</b>, mobil: 605 025 369</p>
         
 				<h4>Skauti a skautky se omlovají svým rádcům</h4>
-				<p><b>Lasičky (středa): Rosnička - Linda Vlčková</b>,  mobil: 722 288 473</p>
-                                <p><b>Lišáci (středa): Rex - Jan Jindáček</b>, mobil: 721 468 370, <b>Krokodýl - Vojtěch Janda</b>, mobil: 604 156 470</p>
+				<p><b>Lasičky (středa): Špunťa -  Veronika Kokešová</b>,  mobil: 770 146 888, <b>Šiška – Hana Trambová</b>, mobil: 702 039 206</p>
+				<p><b>Ještěrky (čtvrtek): Mantinel - Adéla Vilímková</b>, mobil: 737 396 464, <b>Barbora Kobesová</b>, mobil: 731 729 326</p>
+                <p><b>Lišáci (středa): Rex - Jan Jindáček</b>, mobil: 721 468 370, <b>Krokodýl - Vojtěch Janda</b>, mobil: 604 156 470</p>
 				<p><b>Káňata (čtvrtek): Brzda - Adam Kobes</b>, mobil: 602 659 034, <b>MC - František Faist</b>, mobil: 604 206 448</p>
-				<p><b>Rysové (čtvrtek): Drak - Michal Straka</b>, mobil: 773 608 499, <b>Gandalf - Jakub Straka</b>, mobil: 773 608 498</p>
-
 			</div>
 		</div>
 		<?php require 'php-vzhled/spodek.php'?>			
