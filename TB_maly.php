@@ -41,7 +41,8 @@
 				<br />
 				
 				<p style="margin-bottom: 0px">
-				 	<a style="font-size: 25px" target="_blank" href="https://docs.google.com/spreadsheets/d/1eo-u9roeVp4sL90BVZA_6yBRcux2qTtpFAQBl9wjqmc/edit#gid=265273312">
+				 	<a style="font-size: 25px" target="_blank" 
+                       href="https://docs.google.com/spreadsheets/d/1BhYLw3fUbxHz-WlSwJSMv6ZAik0zhd2KdAz3ojeFiWc/edit?usp=drivesdk">
 				 	Podrobný rozpis táborových bodů</a>
 				</p>
                 <br />
