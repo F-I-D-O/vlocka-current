@@ -137,6 +137,15 @@ h4 {
 	display: block;
 }	
 
+#loga img {
+	width: 265px;
+}
+
+#loga p {
+	text-align: center;
+	color: white;
+}
+
 .odkazy {
 	width: 255px;
 	background-color: #FF8800;

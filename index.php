@@ -29,6 +29,10 @@
 					<li><a target="_blank" href="http://senecak.skauting.cz/uvod.html" >UBYTOVÁNÍ</a></li>
 				</ul>
 			</div>
+		<div id="loga">
+			<img src="obrazky/loga/logo-gs.png" alt="GEAR SERVICE s.r.o." />
+			<p>Děkujeme za podporu!</p>
+		</div>
 		<?php require 'php-vzhled/vlevo_konec.php'?>
 		
 		<div class="novinky">				
