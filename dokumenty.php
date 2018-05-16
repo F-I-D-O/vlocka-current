@@ -58,9 +58,9 @@
                 <!--<p><a  target="_blank" href="dokumenty/Druhé info + seznam věcí 2016.docx.pdf">Další informace o táboře 2017</a></p>-->
 				<p><a  target="_blank" href="dokumenty/Správné První informace k táboru.docx.pdf">Informace o táboře 2018</a></p>
 	 			<p>
-					Přihláška na tábor 2017
+					Přihláška na tábor 2018
                     <!--<a target="_blank" href="dokumenty/Přihláška dítěte do skautského tábora.doc.docx">DOC</a>-->
-                    <a target="_blank" href="dokumenty/Přihláška dítěte do skautského tábora.doc (1).pdf">PDF</a>
+                    <a target="_blank" href="dokumenty/Přihláška-dítěte-do-skautského-tábora.doc-1.pdf">PDF</a>
 				</p>
 <!--	 			<p><a target="_blank" href="dokumenty/T%C3%A1bor%202014%20-%20informace.pdf">
 			 		Informace o táboře 2014
