@@ -27,14 +27,14 @@
 				<img src="fotky/9.jpg" alt="" width="290" />
 				<img src="fotky/11.jpg" alt="" width="290" />
 				<p>Skautský oddíl Vločka zve kluky a holky s rodiči na Odpoledne jako HROCH</p>
-				<p>Akce proběhne <span style="text-decoration: underline">v sobotu 10.září 2016</span>, tak jako každý 
+				<p>Akce proběhne <span style="text-decoration: underline">v sobotu 8.září 2018</span>, tak jako každý 
 				rok u <span style="text-decoration: underline">Seneckého rybníka</span> poblíž skautských kluboven.
-				<span style="text-decoration: underline">Začínat budeme ve 13:00 a končit v 17:00</span></p>
+				<span style="text-decoration: underline">Začínat budeme ve 13:30 a končit v 17:30</span></p>
 				<p>Zúčastnit se můžou všechny děti i s rodiči, školáci i předškoláci</p>
 				<p>Náš oddíl tuto akci pořádá již po šestnácté!</p>
 				<p>Podívejte se na <a target="_blank" href="https://picasaweb.google.com/115127399689339200500/OdpoledneJakoHroch2011">
 				fotografie</a> z minulých let!</p>
-				<img src="obrazky/plakaty/hroch_2016.jpg" alt="Odpoledne jako hroch - plakát" width="620" />
+				<img src="obrazky/plakaty/hroch-2018.png" alt="Odpoledne jako hroch - plakát" width="620" />
 		</div>
 		<?php require 'php-vzhled/spodek.php'?>			
 	</div>

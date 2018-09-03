@@ -35,6 +35,11 @@
 		<div class="obsah">		
 	 		<h1>Dokumenty ke stažení</h1>
 				<p>
+					<a target="_blank" href="dokumenty/zvací-dopis-2018.pdf">
+						Zvací dopis 2018
+					</a>
+				</p>
+				<p>
 					<a target="_blank" href="dokumenty/registrace-2018.doc">
 						Registrace 2018
 					</a>
