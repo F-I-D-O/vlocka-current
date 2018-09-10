@@ -30,7 +30,9 @@
 				</ul>
 			</div>
 		<div id="loga">
-			<img src="obrazky/loga/logo-gs.png" alt="GEAR SERVICE s.r.o." />
+			<a href="http://gear-service.cz/" target="_blank">
+				<img src="obrazky/loga/logo-gs.png" alt="GEAR SERVICE s.r.o." />
+			</a>
 			<p>Děkujeme za podporu!</p>
 		</div>
 		<?php require 'php-vzhled/vlevo_konec.php'?>
