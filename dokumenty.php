@@ -35,6 +35,11 @@
 		<div class="obsah">		
 	 		<h1>Dokumenty ke stažení</h1>
 				<p>
+					<a target="_blank" href="dokumenty/Informace-pro-nováčky-2018.pdf">
+						Informace pro nováčky 2018
+					</a>
+				</p>
+				<p>
 					<a target="_blank" href="dokumenty/zvací-dopis-2018.pdf">
 						Zvací dopis 2018
 					</a>
@@ -49,11 +54,7 @@
 						Zvací dopis 2016
 					</a>
 				</p>-->
-				<p>
-					<a target="_blank" href="dokumenty/Informace-pro-nováčky-2016.pdf">
-						Informace pro nováčky 2016
-					</a>
-				</p>
+				
 <!--				<p>
 					<a target="_blank" href="dokumenty/Informace-pro-rodiče-vlčat-a-světlušek-2015.pdf">
 						Informace pro rodiče včat a světlušek 2015
