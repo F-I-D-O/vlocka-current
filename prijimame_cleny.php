@@ -31,7 +31,7 @@
 		
 		<div class="obsah">				
 			<h1>Přijímáme nové členy!</h1> 
-				<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 1. října 2017</p>
+				<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 1. října 2018</p>
 				<h2>Chceš:</h2>
 				 	<ul style="font-weight: bold">
 						<li>najít opravdové kamarády a patřit do té správné party 

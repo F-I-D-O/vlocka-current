@@ -31,9 +31,9 @@
 		
 		<div class="obsah">
 			<h1>Táborové body skautů a skautek </h1>
-				<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 1. října 2017</p>
+				<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 1. října 2018</p>
 				<p>Letos budou skauti a skautky opět plnit táborové body. Co to pro ně znamená? Každý skaut nebo 
-				skautka, který/á chce jet na tábor, musí splnit k 30. 4. 2018 táborové body(TB). Počet táborových 
+				skautka, který/á chce jet na tábor, musí splnit k 30. 4. 2019 táborové body(TB). Počet táborových 
 				bodů nutných pro účast na táboře byl letos stanoven na <u>30</u>. Kolik má kdo táborových bodů 
 				bude možné průběžně sledovat na této stránce. Táborové body je možné záskat za spoustu věcí, 
 				zde je jejich seznam:</p>
@@ -45,7 +45,7 @@
 						Za 100% docházku 2TB
 					</li>
 					<li><b>stezka:</b> 3TB za splnění jednoho stupně stezky</li>
-					<li><u><b>odborky:</b> za každou splněnou odborku 3TB</u></li>
+					<li><u><b>odborky:</b> za každou splněnou odborku 5TB</u></li>
 					<li><b>umístění v závodě:</b> podle umístění...</li>
 					<li><b>mimořádné činny:</b> učast na brigádách, jiná pomoc oddílu...</li>
 				</ol>	 

@@ -31,7 +31,7 @@
 		
 		<div class="obsah">
 			<h1>O nás</h1>
-			<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 1. října 2017</p>
+			<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 1. října 2018</p>
 				<p>28. oddíl Vločka byl založen 8. září 1999. Původně jsme byli oddílem vlčat a světlušek, ale
                     jak šel čas, vlčata a světlušky vyrostly ve zdatné skauty a skautky a z nich v rovery a rangers.
                     Momentálně máme v oddíle děti ve věku 4 – 17 let.</p>					

@@ -31,9 +31,9 @@
 		
 		<div class="obsah">
 			<h1>Táborové body skautů a skautek</h1>
-				<p style="position: relative; top: -45px; left: 480px;">Aktualizováno 1. října 2017</p>
+				<p style="position: relative; top: -45px; left: 480px;">Aktualizováno 1. října 2018</p>
 				<p>Letos budou skauti a skautky opět plnit táborové body. Co to pro ně 
-				znamená? Každý skaut nebo skautka, který/á chce jet na tábor, musí splnit k <u>30. 4. 2018</u> táborové 
+				znamená? Každý skaut nebo skautka, který/á chce jet na tábor, musí splnit k <u>30. 4. 2019</u> táborové 
 				body(TB). Počet táborových bodů nutných pro účast na táboře byl letos stanoven na <u>30</u>. Kolik má kdo 
 				táborových bodů bude možné průběžně sledovat na stránce jejíž odkaz je uveden níže. Táborové body je možné získat za spoustu 
 				věcí, jejich seznam je <a href="TB_podminky.php">zde</a></p>
@@ -42,7 +42,7 @@
 				<br />
 				
 				<p style="margin-bottom: 0px">
-				 	<a style="font-size: 25px" target="_blank" href=" https://docs.google.com/spreadsheets/d/e/2PACX-1vThKf2eXf3fMIdlyKIwnyNA-n8nzNnQhjGtBLW8UeL04K6eOyhdzjOpRtFI6eZxQUTAafLQe6n7hzD9/pubhtml">
+				 	<a style="font-size: 25px" target="_blank" href=" https://docs.google.com/spreadsheets/d/e/2PACX-1vRptOImZkor5s43GNe09iBGIEtK7N9P9jI6RjV251Cwo8Tf2XJiwHgbRj99qStjDYmdjSgJzaS32Euj/pubhtml">
 				 	Podrobný rozpis táborových bodů</a>
 				</p>
 				<p>Informace v tabulce za tímto odkazem jsou aktualizovány průběžně. Pokud najdete chyby, ozvěte se Gandalfovi)</p>
