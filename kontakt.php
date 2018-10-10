@@ -51,15 +51,14 @@
 				<h3>Omluvy ze schůzek:</h3>
        
 				<p><b>fialová šestka světlušek (pondělí): Šárka Sedláčková - Syky</b>, mobil: 605 472 772, mail: vlocka.info@gmail.com</p>
-				<p><b>červená šestka světlušek (středa): Želva - Anna Calková</b>, mobil: 601 289 550, <b>Mantinel - Adéla Vilímková</b>, mobil: 737 396 464</p>
-				<p><b>černá šestka vlčat (středa): Lachtan - Tomáš Hrubý</b>, mobil: 702 947 471, <b>Plamínek - Mikuláš Hankovec, mobil: 777 990 230</b></p>
-				<p><b>hnědá šestka vlčat (pondělí): Brumík - Kateřina Brumovská</b>, mobil: 605 025 369</p>
+				<p><b>červená šestka světlušek (středa): Želva - Anna Calková</b>, mobil: 601 289 550, <b>Kája - Karolína Dartová</b>, mobil: 777 303 579</p>
+				<p><b>hnědá šestka vlčat (pondělí): MC - František Faist</b>, mobil: 739 634 835, <b>Plamínek - Mikuláš Hankovec, mobil: 777 990 230</b></p>
         
 				<h4>Skauti a skautky se omlovají svým rádcům</h4>
 				<p><b>Lasičky (středa): Špunťa -  Veronika Kokešová</b>,  mobil: 770 146 888, <b>Šiška – Hana Trambová</b>, mobil: 702 039 206</p>
 				<p><b>Ještěrky (čtvrtek): Mantinel - Adéla Vilímková</b>, mobil: 737 396 464, <b>Barbora Kobesová</b>, mobil: 731 729 326</p>
-                                <p><b>Lišáci (středa): Rex - Jan Jindáček</b>, mobil: 721 468 370
-				<p><b>Káňata (čtvrtek): Brzda - Adam Kobes</b>, mobil: 602 659 034, <b>MC - František Faist</b>, mobil: 739 634 835</p>
+                                <p><b>Lišáci (středa): Rex - Jan Jindáček</b>, mobil: 721 468 370</p>
+				<p><b>Káňata (čtvrtek): Brzda - Adam Kobes</b>, mobil: 602 659 034</p>
 			</div>
 		</div>
 		<?php require 'php-vzhled/spodek.php'?>			
