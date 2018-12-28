@@ -34,6 +34,10 @@
 		
 		<div class="obsah">		
 	 		<h1>Dokumenty ke stažení</h1>
+                                <p>
+                                    <a target="_blank" href="dokumenty/registrace-2019.doc">
+			 		Registrace 2019</a> (doc)
+			 	</p>
 				<p>
 					<a target="_blank" href="dokumenty/Informace-pro-nováčky-2018.pdf">
 						Informace pro nováčky 2018
