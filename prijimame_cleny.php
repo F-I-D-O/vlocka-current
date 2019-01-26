@@ -31,7 +31,7 @@
 		
 		<div class="obsah">				
 			<h1>Přijímáme nové členy!</h1> 
-				<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 1. října 2018</p>
+				<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 26. ledna 2019</p>
 				<h2>Chceš:</h2>
 				 	<ul style="font-weight: bold">
 						<li>najít opravdové kamarády a patřit do té správné party 
@@ -71,7 +71,7 @@
             <h4>Schůzky budou takto:</h4>
                 <ul>
                     <li>v pondělí od 16.30 do 19 h (hnědá šestka vlčat a fialová šestka světlušek)</li>
-                    <li>ve středu od 16 do 18.30 h (černá šestka vlčat a červená šestka světlušek)</li>					 	
+                    <li>ve středu od 16.30 do 19 h (červená šestka světlušek)</li>					 	
                 </ul>
                 <p>V případě zájmu se prosím hlaste na oddílovém mailu vlocka.info@gmail.com</p>
                 <p>Těšíme se na Vás!</p>

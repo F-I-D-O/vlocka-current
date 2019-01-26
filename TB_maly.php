@@ -31,7 +31,7 @@
 		
 		<div class="obsah">
 			<h1>Táborové body vlčat a světlušek</h1>
-				<p style="position: relative; top: -45px; left: 480px;">Aktualizováno 22. května 2018</p>
+				<p style="position: relative; top: -45px; left: 480px;">Aktualizováno 26. ledna 2019</p>
 				<p>I pro letošní rok jsme se rozhodli, jako podmínku účasti na letním táboře využít táborové body. 
                     Táborové body děti získávají za účast na oddílovkách a výpravách. Dohromady jich za celý školní rok
                     mohou získat více než 40. Pro účast na táboře je třeba získat min. 20 bodů, což by nemělo být 
@@ -42,7 +42,7 @@
 				
 				<p style="margin-bottom: 0px">
 				 	<a style="font-size: 25px" target="_blank" 
-                       href="https://docs.google.com/spreadsheets/d/1BhYLw3fUbxHz-WlSwJSMv6ZAik0zhd2KdAz3ojeFiWc/edit#gid=1583232856">
+                       href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiNpUGK_JHJrkoQmTPOAxRL5KBeM3bNOPWIlm40ClVZIpWiBnkWQ77bOdt3KooKucd7KsO71DYimHm/pubhtml?gid=241025979&single=true">
 				 	Podrobný rozpis táborových bodů</a>
 				</p>
                 <br />

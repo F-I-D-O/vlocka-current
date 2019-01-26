@@ -31,7 +31,7 @@
 		
 		<div class="obsah">
 			<h1>O nás</h1>
-			<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 1. října 2018</p>
+			<p style="position: relative; top: -45px; left: 500px;">Aktualizováno 26. ledna 2019</p>
 				<p>28. oddíl Vločka byl založen 8. září 1999. Původně jsme byli oddílem vlčat a světlušek, ale
                     jak šel čas, vlčata a světlušky vyrostly ve zdatné skauty a skautky a z nich v rovery a rangers.
                     Momentálně máme v oddíle děti ve věku 4 – 17 let.</p>					
@@ -47,8 +47,7 @@
 						<ul>
                             <li>hnědá šestka vlčat (kluci 6 - 10 let) pondělí 16.30 - 19h</li>
                             <li>fialová šestka světlušek (holky 6 – 10 let) - pondělí 16.30 - 19h</li>
-                            <li>černá šestka vlčat (kluci 6 - 10 let) - středa - 16 - 18.30h</li>
-                            <li>červené šestka světlušek (holky 6 - 10 let) - středa 16 - 18.30h</li>
+                            <li>červené šestka světlušek (holky 6 - 10 let) - středa 16.30 - 19h</li>
 						</ul>																
 					<h3>skauti a skautky</h3>
 						<ul>
@@ -62,8 +61,7 @@
 						<p>Jednou až dvakrát za měsíc jezdíme na výpravy. Většinou jezdíme zvlášť vlčata 
 							se světluškami a skauti se skautkami, některé výpravy jsou společné pro celý oddíl.</p>
 				<h2>Kde se scházíme?</h2>
-					<p>Letos se naše klubovna u Seneckého rybníka rekonstruuje a my se dočasně scházíme v prostorách 
-                        skautského domečku na Doubravce a v loděnici na Boleveckém rybníku. </p>
+					<p>Scházíme se na naší nově zrekonstruované klubovně u Seneckého rybníka, kterou sdílíme s několika dalšími oddíly a lesní školkou.</p>
   				<h2>Kdo nás vede?</h2>
  					<p>Vůdcem oddílu je Michal Straka - Drak, mobil: 773 608 499, mail: michalstraka1236@gmail.com</p>
 					<h3>Zástupci vůdce jsou:</h3>
@@ -75,9 +73,8 @@
 						<ul>
                             <li>Anna Calková – Želva (Červená šestka světlušek)</li>
                             <li>Šárka Sedláčková - Syky (Fialová šestka světlušek)</li>
-                            <li>Kateřina Brumovská – Brumík (Hnědá šestka vlčat)</li>
-                            <li>Tomáš Hrubý - Lachtan (Černá šestka vlčat)</li>
-                            <li>Mikuláš Hankovec - Plamínek (Černá šestka vlčat)</li>
+                            <li>František Faist – MC (Hnědá šestka vlčat)</li>
+                            <li>Mikuláš Hankovec – Plamínek (Hnědá šestka vlčat)</li>
 						</ul>										
 					<h3>Rádcové</h3>
 						<ul>
