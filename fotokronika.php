@@ -165,9 +165,11 @@ require 'php/funkce.php';
 			/* Výpis menu */
 			else{ ?>
 				<h1>Fotokronika</h1>
-                    <h2>2018</h2>
+                                        <h2>2019</h2>
+	    				<a href="fotokronika.php?rok=2019"><img src="fotky/fotokronika/2019.jpg" alt="rok 2019" width="650px"/></a>
+                                        <h2>2018</h2>
 	    				<a href="fotokronika.php?rok=2018"><img src="fotky/fotokronika/2018.jpg" alt="rok 2018" width="650px"/></a>
-                    <h2>2017</h2>
+                                        <h2>2017</h2>
 	    				<a href="fotokronika.php?rok=2017"><img src="fotky/fotokronika/2017.JPG" alt="rok 2017" width="650px"/></a>
 					<h2>2016</h2>
 	    				<a href="fotokronika.php?rok=2016"><img src="fotky/fotokronika/2016.JPG" alt="rok 2016" width="650px"/></a>

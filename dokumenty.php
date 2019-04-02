@@ -35,6 +35,10 @@
 		<div class="obsah">		
 	 		<h1>Dokumenty ke stažení</h1>
                                 <p>
+                                    <a target="_blank" href="dokumenty/velikonocky_2019.pdf">
+			 		Velikonočky 2019</a> (pdf)
+			 	</p>
+                                <p>
                                     <a target="_blank" href="dokumenty/registrace-2019.doc">
 			 		Registrace 2019</a> (doc)
 			 	</p>
