@@ -51,13 +51,11 @@
 						</ul>																
 					<h3>skauti a skautky</h3>
 						<ul>
-                            <li>Lasičky (holky 10 - 12 let) - středa 16 - 18.30h</li>
-                            <li>Lišáci (kluci 10 - 14 let) - středa 16 - 18.30h</li>
-                            <li>Káňata (kluci 10 - 14 let) - čtvrtek 16 - 18.30h</li>
-                            <li>Ještěrky (holky 10 - 11 let) - čtvrtek 16 - 18.30h</li>
+                            <li>Lasičky (holky 13 - 15 let) - středa 16 - 19.00h</li>
+                            <li>Lišáci (kluci 10 - 15 let) - středa 16 - 19.00h</li>
+                            <li>Káňata (kluci 10 - 14 let) - čtvrtek 16 - 19.00h</li>
+                            <li>Ještěrky (holky 11 - 13 let) - čtvrtek 16 - 19.00h</li>
 						</ul>
-						<p>Skauti a skautky a červená šestka světlušek se schází na zastávce Husův park na Doubravce. Ostatní se schází na klubovně u Boleveckého rybníka.</p>
-						<br />
 						<p>Jednou až dvakrát za měsíc jezdíme na výpravy. Většinou jezdíme zvlášť vlčata 
 							se světluškami a skauti se skautkami, některé výpravy jsou společné pro celý oddíl.</p>
 				<h2>Kde se scházíme?</h2>
@@ -66,8 +64,9 @@
  					<p>Vůdcem oddílu je Michal Straka - Drak, mobil: 773 608 499, mail: michalstraka1236@gmail.com</p>
 					<h3>Zástupci vůdce jsou:</h3>
 						<ul>
-                            <li>Jakub Straka – Gandalf, tel.: 773 608 498, mail: jakubstraka123@gmail.com (rádce družiny Rysů)</li>
-                            <li>Linda Vlčková – Rosnička, tel.: 722 288 473, mail: vlckova.lindus@seznam.cz (rádkyně družiny Lasiček)</li>
+                            <li>Jakub Straka – Gandalf, tel.: 773 608 498, mail: jakubstraka123@gmail.com</li>
+							<li>Linda Vlčková – Rosnička, tel.: 722 288 473, mail: vlckova.lindus@seznam.cz</li>
+							<li>Šárka Sedláčková – Syky, tel.: 605 472 772, mail: vlocka.info@gmail.com</li>
 						</ul>			
 					<h3>Mauglíové, Velké světlušky a oddílový rádcové:</h3>
 						<ul>
