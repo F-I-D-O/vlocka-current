@@ -126,9 +126,9 @@
 			<!-- Oblast důležitých zpráv -->		
 			<?php require "php-vzhled/dulezite.php";?>
 			<br>	
-<!--			<a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/pohadkovy_les.php") ?>">
-				<img src="obrazky/ikony/pohadkovyles2014.jpg" alt="Strašidelný les 2013">
-			</a>-->
+			<a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/pohadkovy_les.php") ?>">
+				<img src="obrazky/ikony/pohadkovyLes2019.png" alt="Pohadkovy les 2019">
+			</a>
 			<a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/les.php") ?>">
 				<img src="obrazky/ikony/les2018.jpg" alt="Strašidelný les 2018">
 			</a>	
@@ -136,16 +136,16 @@
 				<img src="obrazky/ikony/hroch2018.jpg" alt="Odpoledne jako hroch 2018">
 			</a>
                         
-<!--			<a href="<?php echo("http://plzentabor.skauting.cz/") ?>" target="_blank">
+<!--		<a href="<?php echo("http://plzentabor.skauting.cz/") ?>" target="_blank">
 				<img src="obrazky/ikony/tabory.PNG" alt="Příměstské tábory 2015">
 			</a>-->
                         
 			<a href="http://skolka.skauting.cz/" target="_blank">
 				<img src="obrazky/ikony/medvidata.PNG" alt="Lesní školka Medvíďata">
 			</a>
-			<a href="http://www.rukodelkyusojky.cz/" target="_blank">
+			<!--<a href="http://www.rukodelkyusojky.cz/" target="_blank">
 				<img src="obrazky/ikony/rukodelky.PNG" alt="Rukodělky u Sojky">
-			</a>
+			</a>-->
 			
 			<a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/prijimame_cleny.php") ?>">
 				<img src="obrazky/ikony/ikona-nabor.png" alt="přijímáme členy">

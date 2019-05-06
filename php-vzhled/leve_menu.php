@@ -24,5 +24,9 @@
 			<li>
 				<a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/odkazy.php") ?>">ODKAZY</a>
 			</li>
+
+			<li>
+				<a href="<?php echo("http://" . $_SERVER["SERVER_NAME"] . "/pohadkovy_les.php") ?>">POHÁDKOVÝ LES</a>
+			</li>
 		</ul>	
  </div>
