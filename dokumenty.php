@@ -34,8 +34,23 @@
 		
 		<div class="obsah">		
 	 		<h1>Dokumenty ke stažení</h1>
-                                <p>
-                                    <a target="_blank" href="dokumenty/velikonocky_2019.pdf">
+			 	<p>
+                    <a target="_blank" href="dokumenty/prihlaska_2019.pdf">
+			 		Přihláška na tábor 2019</a> (pdf)
+			 	</p>
+
+			 	<p>
+                    <a target="_blank" href="dokumenty/druhe_info_seznam_veci_2019.pdf">
+			 		Druhé informace k táboru 2019 a seznam věcí</a> (pdf)
+			 	</p>
+
+			 	<p>
+                    <a target="_blank" href="dokumenty/prvni_info_tabor_2019.pdf">
+			 		První informace k táboru 2019</a> (pdf)
+			 	</p>
+
+                <p>
+                    <a target="_blank" href="dokumenty/velikonocky_2019.pdf">
 			 		Velikonočky 2019</a> (pdf)
 			 	</p>
                                 <p>
